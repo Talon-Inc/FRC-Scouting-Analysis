@@ -102,12 +102,12 @@ def average_auto(data, team, last_num_of_games):
     count = 0
     for row in data[team]:
         count += 1
-        for p in row["auto scoring"]:
-            if p == "ss":
+        for a in row['auto scoring']:
+            if a == 'ss':
                 points += 5 # score speaker
-            elif p == "as":
+            elif a == 'as':
                 points += 2 # score amp
-        if row["leave"] == "true":
+        if row['leave'] == 'true':
             points += 2 # score leaving
         if count == last_num_of_games:
             return str(team) + " scored " + str(points / count) + " points on average during auto\n"
