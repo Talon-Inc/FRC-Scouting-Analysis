@@ -163,8 +163,9 @@ data_dict = {}
 exclude = []
 with open(file_path) as file:
     csv_reader = csv.DictReader(file)
-    # print(csv_reader.restkey["4641"])
     [add_to_master_dict(data_dict, data) for data in csv_reader]
+
+    # test prints
     print(data_dict['4641'][-2])
 
     while True:
