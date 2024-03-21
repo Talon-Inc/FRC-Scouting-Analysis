@@ -83,35 +83,24 @@ def speaker_percentage(data, team, last_num_of_games, sep):
     made = 0
     total = 0
     count = 0
-    r_list = []
-    for row in data:
-        r_list.insert(0, row)
-    for item in r_list:
-        if item["team"] == str(team):
-            count += 1
-            if sep != 2:
-                for i in range(len(item["auto scoring"])):
-                    if item["auto scoring"][i] == "s":
-                        if item["auto scoring"][i + 1] == "s":
-                            made += 1
-                            total += 1
-                        elif item["auto scoring"][i + 1] == "m":
-                            total += 1
-            if sep != 1:
-                for b in range(len(item["teleop scoring"])):
-                    if item["teleop scoring"][b] == "s":
-                        if item["teleop scoring"][b + 1] == "s" or item["auto scoring"][b + 1] == "a":
-                            made += 1
-                            total += 1
-                        elif item["teleop scoring"][b + 1] == "m":
-                            total += 1
-            if count == last_num_of_games:
-                if total == 0:
-                    return str(team) + " did not attempt to score speaker during these matches."
-                return str(team) + " made " + str(
-                    (made / total) * 100) + "% of their speaker shots in the last " + str(
-                    last_num_of_games) + " matches\n"
-
+    for item in data[team]:
+        count += 1
+        if sep != 2:
+            for a in item['auto scoring']:
+                if a == 'ss':
+                    made += 1
+                total += 1
+        if sep != 1:
+            for t in item['teleop scoring']:
+                if t == 'ss' or t == 'sa':
+                    made += 1
+                total += 1
+        if count == last_num_of_games:
+            if total == 0:
+                return str(team) + " did not attempt to score speaker during these matches."
+            return str(team) + " made " + str(
+                (made / total) * 100) + "% of their speaker shots in the last " + str(
+                last_num_of_games) + " matches\n"
     if total == 0:
         return str(team) + " did not attempt to score speaker.\n"
     if count == 0:
