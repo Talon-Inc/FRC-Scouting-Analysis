@@ -160,14 +160,12 @@ def add_to_master_dict(master_dict, data):
 # file_path = input("Please copy and paste the exact file path of the CSV file: ")
 file_path = "C:\\Users\\tiger\\Downloads\\tpw-scouting-2024txpla.csv"
 data_dict = {}
-data_list = []
 exclude = []
 with open(file_path) as file:
     csv_reader = csv.DictReader(file)
     # print(csv_reader.restkey["4641"])
-    for data in csv_reader:
-        add_to_master_dict(data_dict, data)
-    print(data_dict['148'][-1])
+    [add_to_master_dict(data_dict, data) for data in csv_reader]
+    print(data_dict['4641'][-2])
 
     while True:
         choice = input("Enter a number, or type 'done' to end the program.\n"
@@ -195,20 +193,20 @@ with open(file_path) as file:
             team_num = int(input("Enter a team number. "))
             rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds. "))
             if choice == "1":
-                print("\n" + average_amp_scoring(data_list, team_num, rounds, data_filter))
+                print("\n" + average_amp_scoring(data_dict, team_num, rounds, data_filter))
             elif choice == "2":
-                print("\n" + average_speaker_scoring(data_list, team_num, rounds, data_filter))
+                print("\n" + average_speaker_scoring(data_dict, team_num, rounds, data_filter))
             elif choice == "3":
-                print("\n" + amp_percentage(data_list, team_num, rounds, data_filter))
+                print("\n" + amp_percentage(data_dict, team_num, rounds, data_filter))
             elif choice == "4":
-                print("\n" + speaker_percentage(data_list, team_num, rounds, data_filter))
+                print("\n" + speaker_percentage(data_dict, team_num, rounds, data_filter))
         elif choice in ["5", "6"]:
             team_num = int(input("Enter a team number. "))
             rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds. "))
             if choice == "5":
-                print("\n" + average_auto(data_list, team_num, rounds))
+                print("\n" + average_auto(data_dict, team_num, rounds))
             else:
-                print("\n" + average_endgame(data_list, team_num, rounds))
+                print("\n" + average_endgame(data_dict, team_num, rounds))
         else:
             print("Please choose a valid choice.\n")
             continue
@@ -218,17 +216,17 @@ layout = [  [sg.Text("What's your name?")],
             [sg.InputText()],
             [sg.Button('Ok'), sg.Button('Cancel')] ]
 
-# Create the Window
-window = sg.Window('Hello Example', layout)
+# # Create the Window
+# window = sg.Window('Hello Example', layout)
 
-# Event Loop to process "events" and get the "values" of the inputs
-while True:
-    event, values = window.read()
+# # Event Loop to process "events" and get the "values" of the inputs
+# while True:
+#     event, values = window.read()
 
-    # if user closes window or clicks cancel
-    if event == sg.WIN_CLOSED or event == 'Cancel':
-        break
+#     # if user closes window or clicks cancel
+#     if event == sg.WIN_CLOSED or event == 'Cancel':
+#         break
 
-    print('Hello', values[0], '!')
+#     print('Hello', values[0], '!')
 
-window.close()
+# window.close()
