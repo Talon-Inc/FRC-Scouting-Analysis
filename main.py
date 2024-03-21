@@ -24,25 +24,19 @@ def average_amp_scoring(data, team, last_num_of_games, sep):
 def average_speaker_scoring(data, team, last_num_of_games, sep):
     results = 0
     count = 0
-    r_list = []
-    for row in data:
-        r_list.insert(0, row)
-    for item in r_list:
-        if item["team"] == str(team):
-            count += 1
-            if sep != 2:
-                for i in range(len(item["auto scoring"])):
-                    if item["auto scoring"][i] == "s":
-                        if item["auto scoring"][i + 1] == "s":
-                            results += 1
-            if sep != 1:
-                for b in range(len(item["teleop scoring"])):
-                    if item["teleop scoring"][b] == "s":
-                        if item["teleop scoring"][b + 1] == "s" or item["teleop scoring"][b + 1] == "a":
-                            results += 1
-            if count == last_num_of_games:
-                return str(team) + " scored speaker " + str(results / count) + " times per match in the last " \
-                       + str(last_num_of_games) + " matches.\n"
+    for item in data[team]:
+        count += 1
+        if sep != 2:
+            for a in item['auto scoring']:
+                if a == 'ss':
+                    results += 1
+        if sep != 1:
+            for t in item['teleop scoring']:
+                if t == 'ss':
+                    results += 1
+        if count == last_num_of_games:
+            return str(team) + " scored speaker " + str(results / count) + " times per match in the last " \
+                    + str(last_num_of_games) + " matches.\n"
     if count == 0:
         return str(team) + " did not attend this event.\n"
     return str(team) + " scores speaker " + str(results / count) + " times per match on average.\n"
