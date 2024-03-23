@@ -49,9 +49,9 @@ def average_speaker_scoring(data, team, last_num_of_games, sep):
 def amp_percentage(data, team, last_num_of_games, sep):
     made = 0
     total = 0
-    count = 0
+    matches = 0
     for item in data[team]:
-        count += 1
+        matches += 1
         if sep != 2:
             for a in item["auto scoring"]:
                 if a == "as":
@@ -62,7 +62,8 @@ def amp_percentage(data, team, last_num_of_games, sep):
                 if t == "as":
                     made += 1
                 total += 1
-        if count == last_num_of_games:
+        if matches == last_num_of_games:
+            return made, total, matches
             if total == 0:
                 return team + " did not attempt to score speaker during these matches."
             return (
@@ -71,7 +72,7 @@ def amp_percentage(data, team, last_num_of_games, sep):
             )
     if total == 0:
         return team + " did not attempt to score amp.\n"
-    if count == 0:
+    if matches == 0:
         return team + " did not attend this event.\n"
     return (team + " made " + str((made / total) * 100) + "% of their amp shots.\n")
 
@@ -79,9 +80,9 @@ def amp_percentage(data, team, last_num_of_games, sep):
 def speaker_percentage(data, team, last_num_of_games, sep):
     made = 0
     total = 0
-    count = 0
+    matches = 0
     for item in data[team]:
-        count += 1
+        matches += 1
         if sep != 2:
             for a in item["auto scoring"]:
                 if a == "ss":
@@ -92,7 +93,7 @@ def speaker_percentage(data, team, last_num_of_games, sep):
                 if t == "ss" or t == "sa":
                     made += 1
                 total += 1
-        if count == last_num_of_games:
+        if matches == last_num_of_games:
             if total == 0:
                 return team + " did not attempt to score speaker during these matches."
             return (
@@ -101,7 +102,7 @@ def speaker_percentage(data, team, last_num_of_games, sep):
             )
     if total == 0:
         return team + " did not attempt to score speaker.\n"
-    if count == 0:
+    if matches == 0:
         return team + " did not attend this event.\n"
     return (team + " made " + str((made / total) * 100) + "% of their speaker shots.\n")
 
@@ -210,13 +211,24 @@ with open(file_path) as file:
                 print("COMBINED")
 
             team_num = input("Enter a team number: ")
-            rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds. "))
+            rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds: "))
             if choice == "1":
-                print("\n" + average_amp_scoring(data_dict, team_num, rounds, data_filter))
+                amp_made, matches = average_amp_scoring(data_dict, team_num, rounds, data_filter)
+                print("\n")
+                if matches == 0:
+                    print(("{} did not attend this event.\n").format(team_num))
+                else:
+                    print(("{} scores amp {:.2f} times per match on average.\n").format(team_num, (amp_made / matches)))
             elif choice == "2":
-                print("\n"+ average_speaker_scoring(data_dict, team_num, rounds, data_filter))
+                speaker_made, matches = average_speaker_scoring(data_dict, team_num, rounds, data_filter)
+                if matches == 0:
+                    print(("{} did not attend this event.\n").format(team_num))
+                else:
+                    print(("{} scores speaker {:.2f} times per match on average.\n").format(team_num, (speaker_made / matches)))
             elif choice == "3":
-                print("\n" + amp_percentage(data_dict, team_num, rounds, data_filter))
+                amp_made, amp_total, matches = amp_percentage(data_dict, team_num, rounds, data_filter)
+                print(team_num + " made " + str((amp_made / amp_total) * 100) + "% of their speaker shots in the last "
+                + str(last_num_of_games) + " matches\n")
             elif choice == "4":
                 print("\n" + speaker_percentage(data_dict, team_num, rounds, data_filter))
         elif choice in ["5", "6"]:
