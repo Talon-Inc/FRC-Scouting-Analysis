@@ -46,10 +46,8 @@ def average_speaker_scoring(data, team, last_num_of_games, sep):
     return (team + " scores speaker " + str(results / count) + " times per match on average.\n")
 
 
-def amp_percentage(data, team, last_num_of_games, sep):
-    made = 0
-    total = 0
-    matches = 0
+def amp_scoring(data, team, last_num_of_games, sep):
+    made, total, matches = 0, 0, 0
     for item in data[team]:
         matches += 1
         if sep != 2:
@@ -64,23 +62,11 @@ def amp_percentage(data, team, last_num_of_games, sep):
                 total += 1
         if matches == last_num_of_games:
             return made, total, matches
-            if total == 0:
-                return team + " did not attempt to score speaker during these matches."
-            return (
-                team + " made " + str((made / total) * 100) + "% of their speaker shots in the last "
-                + str(last_num_of_games) + " matches\n"
-            )
-    if total == 0:
-        return team + " did not attempt to score amp.\n"
-    if matches == 0:
-        return team + " did not attend this event.\n"
-    return (team + " made " + str((made / total) * 100) + "% of their amp shots.\n")
+    return made, total, matches
 
 
-def speaker_percentage(data, team, last_num_of_games, sep):
-    made = 0
-    total = 0
-    matches = 0
+def speaker_scoring(data, team, last_num_of_games, sep):
+    made, total, matches = 0, 0, 0
     for item in data[team]:
         matches += 1
         if sep != 2:
@@ -94,17 +80,8 @@ def speaker_percentage(data, team, last_num_of_games, sep):
                     made += 1
                 total += 1
         if matches == last_num_of_games:
-            if total == 0:
-                return team + " did not attempt to score speaker during these matches."
-            return (
-                team + " made " + str((made / total) * 100) + "% of their speaker shots in the last "
-                + str(last_num_of_games) + " matches\n"
-            )
-    if total == 0:
-        return team + " did not attempt to score speaker.\n"
-    if matches == 0:
-        return team + " did not attend this event.\n"
-    return (team + " made " + str((made / total) * 100) + "% of their speaker shots.\n")
+            return made, total, matches
+    return made, total, matches
 
 
 def average_auto(data, team, last_num_of_games):
@@ -121,8 +98,6 @@ def average_auto(data, team, last_num_of_games):
             points += 2  # score leaving
         if count == last_num_of_games:
             return (team + " scored " + str(points / count) + " points on average during auto\n")
-    if count == 0:
-        return team + " did not attend this event.\n"
     return (team + " scored " + str(points / count) + " points on average during auto\n")
 
 
@@ -172,14 +147,14 @@ def add_to_master_dict(master_dict, data):
 
 # file_path = input("Please copy and paste the exact file path of the CSV file: ")
 file_path = "C:\\Users\\tiger\\Downloads\\tpw-scouting-2024txpla.csv"
-data_dict = {}
-exclude = []
+team_dict = {}
+exclude_teams = []
 with open(file_path) as file:
     csv_reader = csv.DictReader(file)
-    [add_to_master_dict(data_dict, data) for data in csv_reader]
+    [add_to_master_dict(team_dict, data) for data in csv_reader]
 
     # test prints
-    print(data_dict["4641"][-2])
+    print(team_dict["4641"][-2])
 
     while True:
         choice = input(
@@ -211,33 +186,34 @@ with open(file_path) as file:
                 print("COMBINED")
 
             team_num = input("Enter a team number: ")
+            if team_num not in team_dict.keys():
+                print(("{} did not attend this event.\n").format(team_num))
+                continue
             rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds: "))
             if choice == "1":
-                amp_made, matches = average_amp_scoring(data_dict, team_num, rounds, data_filter)
-                print("\n")
-                if matches == 0:
-                    print(("{} did not attend this event.\n").format(team_num))
-                else:
-                    print(("{} scores amp {:.2f} times per match on average.\n").format(team_num, (amp_made / matches)))
+                amp_made, matches = average_amp_scoring(team_dict, team_num, rounds, data_filter)
+                print(("\n{} scores amp {:.2f} times per match on average.\n").format(team_num, (amp_made / matches)))
             elif choice == "2":
-                speaker_made, matches = average_speaker_scoring(data_dict, team_num, rounds, data_filter)
-                if matches == 0:
-                    print(("{} did not attend this event.\n").format(team_num))
-                else:
-                    print(("{} scores speaker {:.2f} times per match on average.\n").format(team_num, (speaker_made / matches)))
+                speaker_made, matches = average_speaker_scoring(team_dict, team_num, rounds, data_filter)
+                print(("\n{} scores speaker {:.2f} times per match on average.\n").format(team_num, (speaker_made / matches)))
             elif choice == "3":
-                amp_made, amp_total, matches = amp_percentage(data_dict, team_num, rounds, data_filter)
-                print(team_num + " made " + str((amp_made / amp_total) * 100) + "% of their speaker shots in the last "
-                + str(last_num_of_games) + " matches\n")
+                amp_made, amp_total, matches = amp_scoring(team_dict, team_num, rounds, data_filter)
+                print(("\n{} made {:.2f}% of their speaker shots in the last {} matches\n").format(team_num, (amp_made / amp_total) * 100, rounds))
             elif choice == "4":
-                print("\n" + speaker_percentage(data_dict, team_num, rounds, data_filter))
+                speaker_made, speaker_total, matches = speaker_scoring(team_dict, team_num, rounds, data_filter)
+                print(("\n{} made {:.2f}% of their speaker shots in the last {} matches\n").format(team_num, (speaker_made / speaker_total) * 100, rounds))
         elif choice in ["5", "6"]:
             team_num = input("Enter a team number: ")
-            rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds. "))
+            if team_num not in team_dict.keys():
+                print(("{} did not attend this event.\n").format(team_num))
+                continue
+            rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds: "))
             if choice == "5":
-                print("\n" + average_auto(data_dict, team_num, rounds))
+                auto_points, matches = average_auto(team_dict, team_num, rounds)
+                print(("\n{} scored {} points on average during auto.\n").format(team_num, auto_points / matches))
             else:
-                print("\n" + average_endgame(data_dict, team_num, rounds))
+                stage_points, matches = average_endgame(team_dict, team_num, rounds)
+                print(("{} scored {} stage points on average\n").format(team_num, (stage_points / matches)))
         else:
             print("Please choose a valid choice.\n")
             continue
