@@ -155,8 +155,8 @@ def add_to_master_dict(master_dict, data):
 def sort_teams(t):
     return list(t.values())[0][0]
 
-# file_path = input("Please copy and paste the exact file path of the CSV file: ")
-file_path = "C:\\Users\\tiger\\Downloads\\tpw-scouting-2024txdal.csv"
+# File path of csv data
+file_path = "tpw-scouting-2024txdal.csv"
 team_dict = {}
 exclude_teams = []
 with open(file_path) as file:
@@ -165,6 +165,7 @@ with open(file_path) as file:
     
 # test prints
 # print(team_dict["4641"][-2])
+# Layout: [{team: (made, total, matches)}, {team2: ...}, etc...]
 amp = []
 speaker = []
 for t in team_dict:
@@ -179,14 +180,14 @@ print("Amp score:")
 for i in range(len(amp)):
     a = amp[i]
     k = list(a.keys())[0].rjust(4)
-    v = list(a.values())[0]
+    v = a[k]
     print(("{}) {}: {}").format(str(i+1).rjust(2), k, v))
 
 print("Speaker score:")
 for i in range(len(speaker)):
     s = speaker[i]
     k = list(s.keys())[0].rjust(4)
-    v = list(s.values())[0]
+    v = s[k]
     print(("{}) {}: {}").format(str(i+1).rjust(2), k, v))
 
 
