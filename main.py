@@ -144,6 +144,8 @@ def add_to_master_dict(master_dict, data):
     # add data to team
     master_dict[team].append(team_data)
 
+def sort_teams(t):
+    return list(t.values())[0]
 
 # file_path = input("Please copy and paste the exact file path of the CSV file: ")
 file_path = "C:\\Users\\tiger\\Downloads\\tpw-scouting-2024txdal.csv"
@@ -155,21 +157,29 @@ with open(file_path) as file:
     
 # test prints
 # print(team_dict["4641"][-2])
-amp = {}
-speaker = {}
+amp = []
+speaker = []
 for t in team_dict:
-    amp[t] = amp_scoring(team_dict, t, 0, 0)[0]
+    amp.append({t: amp_scoring(team_dict, t, 0, 0)[0]})
+for t in team_dict:
+    speaker.append({t: speaker_scoring(team_dict, t, 0, 0)[0]})
 
-for t in team_dict:
-    speaker[t] = speaker_scoring(team_dict, t, 0, 0)[0]
+amp.sort(key=sort_teams, reverse=True)
+speaker.sort(key=sort_teams, reverse=True)
 
 print("Amp score")
-for a in amp.items():
-    print(("{}: {}").format(a[0], a[1]))
+for i in range(len(amp)):
+    a = amp[i]
+    k = list(a.keys())[0].rjust(4)
+    v = list(a.values())[0]
+    print(("{}) {}: {}").format(str(i+1).rjust(2), k, v))
 
 print("Speaker score")
-for s in speaker.items():
-    print(("{}: {}").format(s[0], s[1]))
+for i in range(len(speaker)):
+    s = speaker[i]
+    k = list(s.keys())[0].rjust(4)
+    v = list(s.values())[0]
+    print(("{}) {}: {}").format(str(i+1).rjust(2), k, v))
 
 
 while True:
