@@ -54,12 +54,16 @@ def amp_scoring(data, team, last_num_of_games, sep):
             for a in item["auto scoring"]:
                 if a == "as":
                     made += 1
-                total += 1
+                    total += 1
+                elif a == "am":
+                    total += 1
         if sep != 1:
             for t in item["teleop scoring"]:
                 if t == "as":
                     made += 1
-                total += 1
+                    total += 1
+                elif t == "am":
+                    total += 1
         if matches == last_num_of_games:
             return made, total, matches
     return made, total, matches
@@ -73,12 +77,16 @@ def speaker_scoring(data, team, last_num_of_games, sep):
             for a in item["auto scoring"]:
                 if a == "ss":
                     made += 1
-                total += 1
+                    total += 1
+                elif a == "sm":
+                    total += 1
         if sep != 1:
             for t in item["teleop scoring"]:
                 if t == "ss" or t == "sa":
                     made += 1
-                total += 1
+                    total += 1
+                elif t == "sm":
+                    total += 1
         if matches == last_num_of_games:
             return made, total, matches
     return made, total, matches
@@ -145,7 +153,7 @@ def add_to_master_dict(master_dict, data):
     master_dict[team].append(team_data)
 
 def sort_teams(t):
-    return list(t.values())[0]
+    return list(t.values())[0][0]
 
 # file_path = input("Please copy and paste the exact file path of the CSV file: ")
 file_path = "C:\\Users\\tiger\\Downloads\\tpw-scouting-2024txdal.csv"
@@ -160,21 +168,21 @@ with open(file_path) as file:
 amp = []
 speaker = []
 for t in team_dict:
-    amp.append({t: amp_scoring(team_dict, t, 0, 0)[0]})
+    amp.append({t: amp_scoring(team_dict, t, 0, 0)})
 for t in team_dict:
-    speaker.append({t: speaker_scoring(team_dict, t, 0, 0)[0]})
+    speaker.append({t: speaker_scoring(team_dict, t, 0, 0)})
 
 amp.sort(key=sort_teams, reverse=True)
 speaker.sort(key=sort_teams, reverse=True)
 
-print("Amp score")
+print("Amp score:")
 for i in range(len(amp)):
     a = amp[i]
     k = list(a.keys())[0].rjust(4)
     v = list(a.values())[0]
     print(("{}) {}: {}").format(str(i+1).rjust(2), k, v))
 
-print("Speaker score")
+print("Speaker score:")
 for i in range(len(speaker)):
     s = speaker[i]
     k = list(s.keys())[0].rjust(4)
