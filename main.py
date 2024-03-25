@@ -146,77 +146,93 @@ def add_to_master_dict(master_dict, data):
 
 
 # file_path = input("Please copy and paste the exact file path of the CSV file: ")
-file_path = "C:\\Users\\tiger\\Downloads\\tpw-scouting-2024txpla.csv"
+file_path = "C:\\Users\\tiger\\Downloads\\tpw-scouting-2024txdal.csv"
 team_dict = {}
 exclude_teams = []
 with open(file_path) as file:
     csv_reader = csv.DictReader(file)
     [add_to_master_dict(team_dict, data) for data in csv_reader]
+    
+# test prints
+# print(team_dict["4641"][-2])
+amp = {}
+speaker = {}
+for t in team_dict:
+    amp[t] = amp_scoring(team_dict, t, 0, 0)[0]
 
-    # test prints
-    print(team_dict["4641"][-2])
+for t in team_dict:
+    speaker[t] = speaker_scoring(team_dict, t, 0, 0)[0]
 
-    while True:
-        choice = input(
-            "Enter a number, or type 'done' to end the program.\n"
-            "1. Average Amp Scoring\n"
-            "2. Average Speaker Scoring\n"
-            "3. Amp Percentage\n"
-            "4. Speaker Percentage\n"
-            "5. Average Auto Score\n"
-            "6. Average Endgame Score\n"
-            "Enter: "
-        )
-        if choice == "done":
-            break
-        elif choice in ["1", "2", "3", "4"]:
-            data_filter = int(
-                input(
-                    "\nChoose one of the following:\n"
-                    "1. Find only autonomous data\n"
-                    "2. Find only teleop data\n"
-                    "3. Find combined data\n"
-                )
+print("Amp score")
+for a in amp.items():
+    print(("{}: {}").format(a[0], a[1]))
+
+print("Speaker score")
+for s in speaker.items():
+    print(("{}: {}").format(s[0], s[1]))
+
+
+while True:
+    choice = input(
+        "Enter a number, or type 'done' to end the program.\n"
+        "1. Average Amp Scoring\n"
+        "2. Average Speaker Scoring\n"
+        "3. Amp Percentage\n"
+        "4. Speaker Percentage\n"
+        "5. Average Auto Score\n"
+        "6. Average Endgame Score\n"
+        "Enter: "
+    )
+    if choice == "done":
+        break
+    elif choice in ["1", "2", "3", "4"]:
+        data_filter = int(
+            input(
+                "\nChoose one of the following:\n"
+                "1. Find only autonomous data\n"
+                "2. Find only teleop data\n"
+                "3. Find combined data\n"
             )
-            if data_filter == 1:
-                print("AUTONOMOUS")
-            elif data_filter == 2:
-                print("TELEOP")
-            else:
-                print("COMBINED")
-
-            team_num = input("Enter a team number: ")
-            if team_num not in team_dict.keys():
-                print(("{} did not attend this event.\n").format(team_num))
-                continue
-            rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds: "))
-            if choice == "1":
-                amp_made, matches = average_amp_scoring(team_dict, team_num, rounds, data_filter)
-                print(("\n{} scores amp {:.2f} times per match on average.\n").format(team_num, (amp_made / matches)))
-            elif choice == "2":
-                speaker_made, matches = average_speaker_scoring(team_dict, team_num, rounds, data_filter)
-                print(("\n{} scores speaker {:.2f} times per match on average.\n").format(team_num, (speaker_made / matches)))
-            elif choice == "3":
-                amp_made, amp_total, matches = amp_scoring(team_dict, team_num, rounds, data_filter)
-                print(("\n{} made {:.2f}% of their speaker shots in the last {} matches\n").format(team_num, (amp_made / amp_total) * 100, rounds))
-            elif choice == "4":
-                speaker_made, speaker_total, matches = speaker_scoring(team_dict, team_num, rounds, data_filter)
-                print(("\n{} made {:.2f}% of their speaker shots in the last {} matches\n").format(team_num, (speaker_made / speaker_total) * 100, rounds))
-        elif choice in ["5", "6"]:
-            team_num = input("Enter a team number: ")
-            if team_num not in team_dict.keys():
-                print(("{} did not attend this event.\n").format(team_num))
-                continue
-            rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds: "))
-            if choice == "5":
-                auto_points, matches = average_auto(team_dict, team_num, rounds)
-                print(("\n{} scored {} points on average during auto.\n").format(team_num, auto_points / matches))
-            else:
-                stage_points, matches = average_endgame(team_dict, team_num, rounds)
-                print(("{} scored {} stage points on average\n").format(team_num, (stage_points / matches)))
+        )
+        if data_filter == 1:
+            print("AUTONOMOUS")
+        elif data_filter == 2:
+            print("TELEOP")
         else:
-            print("Please choose a valid choice.\n")
+            print("COMBINED")
+
+        team_num = input("Enter a team number: ")
+        if team_num not in team_dict.keys():
+            print(("{} did not attend this event.\n").format(team_num))
             continue
+        rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds: "))
+        if choice == "1":
+            amp_made, matches = average_amp_scoring(team_dict, team_num, rounds, data_filter)
+            print(("\n{} scores amp {:.2f} times per match on average.\n").format(team_num, (amp_made / matches)))
+        elif choice == "2":
+            speaker_made, matches = average_speaker_scoring(team_dict, team_num, rounds, data_filter)
+            print(("\n{} scores speaker {:.2f} times per match on average.\n").format(team_num, (speaker_made / matches)))
+        elif choice == "3":
+            amp_made, amp_total, matches = amp_scoring(team_dict, team_num, rounds, data_filter)
+            print(("\n{} made {:.2f}% of their speaker shots in the last {} matches\n").format(team_num, (amp_made / amp_total) * 100, rounds))
+        elif choice == "4":
+            speaker_made, speaker_total, matches = speaker_scoring(team_dict, team_num, rounds, data_filter)
+            print(("\n{} made {:.2f}% of their speaker shots in the last {} matches\n").format(team_num, (speaker_made / speaker_total) * 100, rounds))
+    elif choice in ["5", "6"]:
+        team_num = input("Enter a team number: ")
+        if team_num not in team_dict.keys():
+            print(("{} did not attend this event.\n").format(team_num))
+            continue
+        rounds = int(input("Enter the number of rounds you want to consider, or enter 0 to consider all rounds: "))
+        if choice == "5":
+            auto_points, matches = average_auto(team_dict, team_num, rounds)
+            print(("\n{} scored {} points on average during auto.\n").format(team_num, auto_points / matches))
+        else:
+            stage_points, matches = average_endgame(team_dict, team_num, rounds)
+            print(("{} scored {} stage points on average\n").format(team_num, (stage_points / matches)))
+    else:
+        print("Please choose a valid choice.\n")
+        continue
 
 # All the stuff inside your window.
 layout = [
