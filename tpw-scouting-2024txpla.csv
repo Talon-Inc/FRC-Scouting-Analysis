@@ -1,0 +1,243 @@
+,match,team,alliance,leave,"ground pick-up","center line pick-up","auto scoring","teleop scoring","stage level",spotlight,"stage time","brick time","defense time","driver skill","defense skill",speed,stability,"intake consistency",scouter,comments,accuracy,timestamp
+0,1,3282,red,false,false,false,"[]","[]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Once teleop, moved as a defense bot, but keep getting stuck in places",,1710001798718
+1,1,4641,red,true,true,false,"[ss, ss]","[ss, sm, ss, ss, ss, ss]",2,false,0,0,0,4,1,3,1,2,"crescendohawk24 (4641)","",,1710001790147
+2,1,7121,red,false,true,false,"[]","[as, am, as, ss, ss, as]",1,false,0,0,0,3,2,2,3,3,"crescendohawk24 (4641)","Capable of going on stage, saw no autonomous (tbd)",,1710001831699
+3,1,1296,blue,true,true,false,"[sm]","[as, as, as, as]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710001779941
+4,1,7091,blue,true,false,false,"[]","[]",0,false,0,0,3800,0,0,0,0,0,"cresendohawk24 (4641)","It was pretty useless did not score was heavly incomplete",,1710001820725
+5,1,8573,blue,false,false,false,"[]","[]",0,false,0,135750,0,0,0,0,0,0,"cresendo hawk24 (4641)","Code seems off making it so it couldn’t move all match or go anything with the note in it",,1710001776378
+6,2,1745,red,false,true,false,"[as, as]","[as, as, as, as, as, ss, ss]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Went very fast",,1710002761590
+7,2,5431,red,true,true,false,"[]","[ss, ss, ss, ss, sm, ss, ss]",1,false,0,0,0,2,3,3,2,4,"crescendohawk24 (4641)","",,1710002747016
+8,2,6526,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Bot was not of field ",,1710002740424
+9,2,7119,blue,false,false,false,"[sm]","[]",0,false,0,85650,0,0,0,0,0,0,"crescendohawk24 (4641)","Bricked basically all of teleop",,1710002737016
+10,2,8732,blue,true,false,false,"[]","[]",0,false,0,0,16850,3,2,3,4,0,"cresendo hawk24 (4641)","It seemed like it wasn’t able to shoot during the match cause of the bumper and became defensive of their side",,1710002778923
+11,2,9533,blue,false,false,false,"[]","[sm]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710002764358
+12,3,5572,red,true,false,false,"[as]","[am, am, am]",3,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Played on defense after missing their shots",,1710003468968
+13,3,6901,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710003465396
+14,3,9128,red,true,true,false,"[ss, ss, sm]","[as, ss, as, sa, sm, as, as, sa, ss]",1,false,0,0,0,3,0,3,3,3,"crescendohawk24 (4641)","Most likely would've scored more but they crashed into the stage and wouldn't move anymore. Extremely good couldn't see defensive skill, focused on scoring",,1710003537362
+15,3,4192,blue,true,true,false,"[]","[sm, sm, sm, ss, sa, sm, ss, ss]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710003453299
+16,3,6768,blue,false,false,false,"[]","[sm, sm, as, as, as, ss]",2,false,0,11250,0,3,2,1,3,2,"cresendo hawk24 (4641)","The team decided not to shoot during Auto and waited for Tele",,1710003491860
+17,3,7521,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Was not on the field1",,1710003595754
+18,4,5788,red,false,true,false,"[]","[ss, ss, ss, ss, sm, ss, sm, ss, sm, ss]",1,false,0,0,0,2,0,2,2,2,"crescendohawk24 (4641)","They moved during autonomous but crashed into another bot, no climb, was good in the beginning but became slightly sloppy near the end.",,1710004506329
+19,4,9752,red,true,true,false,"[ss]","[as, as, ss, as, as, ss, ss, as]",0,false,0,0,0,3,2,4,2,4,"crescendohawk24 (4641)","",,1710004435781
+20,4,9786,red,false,true,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Stuck on one node for most the time and when it couldn’t get it, they gave up",,1710004438731
+21,4,5417,blue,true,true,false,"[ss]","[ss]",0,false,0,38850,0,2,0,4,1,2,"cresendo hawk24 (4641)","The shooter was moving too much when it was going fast. As well, it seemed that they didn’t know who to do after their first two shots",,1710004501516
+22,4,7503,blue,false,false,false,"[]","[]",0,false,0,59150,26700,0,0,0,0,0,"crescendohawk24 (4641)","",,1710004427863
+23,4,9034,blue,false,false,false,"[]","[]",0,false,0,66600,0,0,0,0,0,0,"cresendohawk24 (4641)","Was pretty much useless",,1710004447232
+24,5,3735,red,true,true,false,"[ss, ss]","[sm, as, as]",0,false,0,0,0,0,1,1,2,2,"crescendohawk24 (4641)","Could not fully discern driver skill, robot stopped working partway through\nDefense skills (tbd)\n",,1710005102370
+25,5,6171,red,true,false,false,"[]","[as]",0,false,0,0,0,2,1,1,1,0,"crescendohawk24 (4641)","",,1710005058954
+26,5,8573,red,false,false,false,"[as]","[]",3,false,0,1000,0,0,0,0,0,0,"cresendohawk24 (4641)","It pick up a node but couldn’t shoot it",,1710005072161
+27,5,148,blue,true,true,true,"[ss]","[as, sm, ss, ss, ss, ss, sm, ss, sm, ss, ss, sm, ts]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","They were very good\nI Notcited that their strategy was shoot and scoope",,1710005103901
+28,5,2848,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss]",1,false,0,15550,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710005046300
+29,5,9407,blue,false,false,false,"[]","[sm]",0,false,0,39000,0,1,0,3,3,1,"cresendo hawk24 (4641)","After crashing hard it didn’t move for the rest of the match. As well it seems to not have a intake system other then inserting it on top",,1710005097057
+30,6,1745,red,true,false,false,"[]","[]",1,false,0,0,0,2,1,2,2,0,"crescendohawk24 (4641)","",,1710005717296
+31,6,4192,red,true,false,false,"[]","[sm, ss, ss, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,2,0,1,2,3,"crescendohawk24 (4641)","",,1710005731755
+32,6,6901,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Didn’t move at all during the game ",,1710005719593
+33,6,1296,blue,false,false,false,"[sm]","[as]",0,false,0,10450,19300,2,3,2,2,1,"cresendo hawk24 (4641)","The intake seemed to be the main problem with the bot since it could shoot well but wasn’t able to pick it up as well as it did",,1710005749661
+34,6,4641,blue,true,true,false,"[ss, sm]","[ss, ss]",2,false,0,31750,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710005704013
+35,6,9533,blue,true,true,false,"[]","[sm]",0,false,0,1050,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710005694384
+36,7,3282,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Moved around the map playing defense but barely doing anything ",,1710006508431
+37,7,7091,red,false,false,false,"[]","[]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710006488649
+38,7,9128,red,true,false,false,"[ss]","[as, as, as, sa, sm, sm, ss, as, as, sa, sa, as, as, sa]",1,false,0,0,0,3,2,2,2,4,"crescendohawk24 (4641)","No climbing method",,1710006521438
+39,7,6526,blue,false,false,false,"[]","[]",0,false,0,50400,0,2,1,2,1,0,"cresendo hawk24 (4641)","Can’t say much on the match since all the robot did was move and the shooter when ready for a shot seems woobly.",,1710006547743
+40,7,9034,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Useless\n",,1710006489545
+41,7,9786,blue,false,false,false,"[]","[]",0,false,0,121450,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710006490655
+42,8,2848,red,false,false,false,"[am, as]","[ss, ss, ss, ss, ss]",1,false,0,0,0,2,1,3,2,3,"cresendohawk24 (4641)","",,1710007098904
+43,8,3735,red,true,false,false,"[]","[]",1,false,0,0,0,2,3,0,2,0,"crescendohawk24 (4641)","Did defense all round, was very good at it, attempted to climb but couldn't quite achieve it",,1710007099604
+44,8,7121,red,false,true,false,"[]","[as, sm, sm, ss, sm]",2,false,0,0,0,1,2,2,2,3,"crescendohawk24 (4641)","",,1710007069811
+45,8,5417,blue,false,false,false,"[ss]","[]",1,true,10850,23900,6050,0,0,0,0,0,"crescendohawk24 (4641)","",,1710007084986
+46,8,5572,blue,true,true,false,"[ss, sm, sm]","[]",0,false,0,17000,0,3,2,3,4,1,"cresendo hawk24 (4641)","The beginning was very promising with how it was able to shoot but after getting a note stuck in it, it was unusable other then defense",,1710007083591
+47,8,7521,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Was not on the field",,1710006928795
+48,9,5431,red,false,false,false,"[]","[]",3,true,0,0,0,3,4,2,3,0,"cresendohawk24 (4641)","Played as a defense bot (it’s really good at defense) also pushes nodes to allies",,1710007669976
+49,9,6768,red,false,true,false,"[]","[as, as, as, sm, as, as, sm, sm, ss, ss]",2,true,0,0,0,2,0,2,2,3,"crescendohawk24 (4641)","Very good at amp, took sometime to adjust for speaker\n\nDefense skill (TBD)",,1710007695638
+50,9,9407,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710007652024
+51,9,5788,blue,false,true,false,"[sm]","[sm, sm]",0,true,0,0,0,3,2,3,3,2,"cresendo hawk24 (4641)","The note got easily stuck in a place where the robot couldn’t get rid of it from leading to it being not able to shot for the rest of the match",,1710007678751
+52,9,7503,blue,false,false,false,"[]","[]",0,true,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","2 spotlight\n",,1710007651080
+53,9,8732,blue,true,true,false,"[sm]","[]",1,false,6000,0,18000,0,0,0,0,0,"crescendohawk24 (4641)","",,1710007649009
+54,10,7119,red,false,true,false,"[ss]","[sm]",0,false,0,0,0,2,0,2,0,2,"crescendohawk24 (4641)","",,1710011101552
+55,10,9128,red,false,true,false,"[ss, ss]","[ss, ss, ss, ss, as, sa]",3,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Specialty is going and shooting fast and can even shoot from long range",,1710011144003
+56,10,6171,blue,true,false,false,"[]","[]",1,false,0,35850,4150,0,0,0,0,0,"crescendohawk24 (4641)","",,1710011076564
+57,10,9752,blue,false,false,false,"[]","[ss, ss, as, ss, ss, as, sm]",2,false,0,0,0,4,3,4,4,4,"cresendo hawk24 (4641)","The robot was fast and efficient throughout the match. No compliments really ",,1710011113499
+58,11,4192,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawks24 (4641)","Did not move during match",,1710012076536
+59,11,7121,red,true,true,false,"[ss]","[ss, ss, sm, ss]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710012124710
+60,11,8573,red,false,true,false,"[ss]","[ss, ss, sm]",2,false,0,0,0,2,1,2,3,3,"crescendohawk24 (4641)","",,1710012101041
+61,11,3735,blue,true,false,false,"[]","[]",1,false,0,29450,63700,0,0,0,0,0,"crescendohawk24 (4641)","",,1710012072371
+62,11,6526,blue,false,false,false,"[]","[]",0,false,0,16400,0,2,0,3,2,0,"cresendo hawk24 (4641)","The robot from what it seemed couldn’t shoot and it only had one note in it the entire match so I doubt there’s a intake system that’s quick",,1710012121340
+63,12,4641,red,false,true,false,"[ss, ss]","[ss, ss, sm, sm, ss, ss]",3,true,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710012833337
+64,12,8732,red,false,false,false,"[]","[]",0,false,0,0,0,3,3,4,0,0,"crescendohawk24 (4641)","",,1710012787360
+65,12,9786,blue,false,false,false,"[]","[sm, sm]",1,false,0,12000,0,0,0,0,0,0,"crescendohawk24 (4641)","Tank drive",,1710012760157
+66,13,1296,red,true,false,false,"[sm]","[ss, ss, sm, ss, ss, ss, ss, ss]",0,false,0,0,0,3,0,2,2,3,"crescendohawks24 (4641)","Not entirely sure on autonomous, view blocked\n\nDefense skills (TBD)\n\n",,1710013415841
+67,13,6171,red,true,false,false,"[]","[]",1,false,1000,0,0,2,3,1,1,0,"crescendohawk24 (4641)","",,1710013322722
+68,13,7503,red,false,false,false,"[]","[ss]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Mostly played defense but whenever they got a node they would shoot",,1710013353839
+69,13,5788,blue,true,true,false,"[sm, sm]","[sm, sm, sm, sm, ss, sm, ss, ss]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710013306074
+70,14,148,red,true,false,true,"[sm, sm]","[ss, ss, ss, ss, sm, sm, ss, ss, ss, ss, ts]",3,true,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Smooth movement and rotation, fires in quick succession, amazing intake system, long ranged shoots",,1710014009731
+71,14,6768,red,false,true,false,"[sm]","[]",2,false,0,0,0,2,1,2,2,3,"crescendohawk24 (4641)","Passes notes",,1710013951280
+72,14,9752,red,true,true,false,"[ss, ss, ss, ss]","[as, sm, ss, sm, ss]",2,false,0,0,0,4,2,3,3,4,"crescendohawks24 (4641)","",,1710013985870
+73,14,9407,blue,false,false,false,"[]","[sm]",0,false,0,0,70500,0,0,0,0,0,"crescendohawk24 (4641)","",,1710013937625
+74,15,5431,red,true,true,false,"[]","[ss, sm, ss, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,3,2,2,2,4,"crescendohawks24 (4641)","",,1710014425548
+75,15,5572,red,false,true,false,"[ss, ss]","[]",0,false,0,25300,0,3,4,3,2,0,"crescendohawk24 (4641)","",,1710014429156
+76,15,9533,red,true,false,false,"[]","[ss, ss, ss, ss]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710014402136
+77,15,8573,blue,false,true,false,"[ss]","[ss, ss]",2,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710014374145
+78,16,7121,red,true,false,false,"[ss]","[ss]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","After reaching center line they stopped and didn’t move for the rest of the game",,1710014943278
+79,16,7503,red,false,false,false,"[]","[sm]",1,false,0,0,0,2,3,2,1,0,"crescendohawks24 (4641)","Couldn't adjust bot to move, ended up going backwards during auto, when shooter is up kinda unstable",,1710014977611
+80,16,7521,red,false,false,false,"[]","[]",1,false,0,20700,0,1,2,0,3,0,"crescendohawk24 (4641)","Super  slow",,1710014964949
+81,16,3282,blue,false,false,false,"[]","[]",1,false,2100,53100,21750,0,0,0,0,0,"crescendohawk24 (4641)","AVOID. They have no way to score",,1710014914833
+82,17,7119,red,false,false,false,"[ss]","[]",0,false,0,20600,0,2,2,1,2,1,"crescendohawk24 (4641)","",,1710015475179
+83,17,9407,red,false,false,false,"[]","[]",0,false,0,0,0,0,1,0,1,0,"crescendohawks24 (4641)","Even tho they defended the blue speaker, blue team still consistently shot into it ",,1710015508727
+84,17,9752,red,true,true,false,"[ss, ss, ss, sm]","[as, as, sa, sa, sa, am, as, sa]",3,true,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Quick paced, fast firing",,1710015492304
+85,17,7091,blue,true,false,false,"[]","[]",1,false,0,54550,18550,0,0,0,0,0,"crescendohawk24 (4641)","No way to score, cant go on stage, bad driver",,1710015481232
+86,18,4641,red,true,true,false,"[ss]","[ss, ss, sm, ss, ss]",2,false,0,0,0,3,2,3,3,3,"crescendohawk24 (4641)","",,1710016078048
+87,18,5431,red,false,false,false,"[]","[]",1,false,0,0,0,1,1,2,2,0,"crescendohawks24 (4641)","Horrible defense",,1710016054351
+88,18,9034,red,false,false,false,"[]","[sm, ss, ss]",1,false,0,0,0,1,2,1,2,3,"cresendohawk24 (4641)","",,1710016070227
+89,18,148,blue,true,true,false,"[ss]","[as, ss, sm, ss, ss, ss, ss, as]",0,false,0,16250,0,4,0,4,4,4,"crescendohawk24 (4641)","",,1710016022141
+90,19,5417,red,true,true,false,"[ss]","[ss, ss, ss, ss, ss, ss]",1,false,0,0,0,2,0,2,3,4,"crescendohawks24 (4641)","Didn't do any defense ",,1710016782202
+91,19,6768,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Didn’t move",,1710016785267
+92,19,9786,red,true,false,false,"[]","[]",1,false,0,0,54150,2,3,2,2,0,"crescendohawk24 (4641)","",,1710016777715
+93,19,1745,blue,true,true,false,"[ss, sm]","[ss, ss, ss, ss, ss, ss, ss, ss, ss, ss]",0,false,0,0,0,4,0,4,4,4,"crescendohawk24 (4641)","We want them, they are like 148",,1710016781025
+94,20,1296,red,false,false,false,"[]","[ss, ss, ss, ss, sm]",2,false,0,0,0,3,0,2,2,3,"crescendohawks24 (4641)","Couldn't see autonomous\n\n",,1710017323177
+95,20,2848,red,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss, sm, ss, ss, ss]",1,false,0,0,0,3,2,2,2,4,"crescendohawk24 (4641)","",,1710017311936
+96,20,7119,red,false,false,false,"[]","[]",2,false,0,0,0,0,1,0,2,0,"cresendohawk24 (4641)","Just kept spinning around",,1710017308217
+97,20,9752,blue,true,true,false,"[ss, ss, ss, ss]","[as, as, ss, ss, as, sm, as, sa]",2,false,0,0,0,3,0,4,3,3,"crescendohawk24 (4641)","Another good team we want ",,1710017310923
+98,21,4192,red,false,true,false,"[sm]","[sm, sm, ss, ss, ss, ss]",1,false,0,0,0,3,2,2,3,3,"crescendohawk24 (4641)","",,1710017775962
+99,21,5788,red,true,true,false,"[ss, sm]","[ss, as, sm, sm, sm, sm]",0,false,0,0,0,2,0,2,2,2,"crescendohawks24 (4641)","Missed a lot due to blues defensive measures",,1710017806782
+100,21,7503,red,true,false,false,"[]","[sm]",1,false,0,0,0,2,3,1,2,1,"cresendohawk24 (4641)","Has trouble shooting  also kinda slow, plays defensively ",,1710017779726
+101,21,7521,blue,false,false,false,"[]","[]",0,false,0,71450,27450,0,0,0,0,0,"crescendohawk24 (4641)","Didnt move at all in auto",,1710017765212
+102,22,5572,red,true,true,false,"[ss, ss, ss, ss]","[sm, ss, sm]",1,false,0,0,0,2,2,2,2,2,"crescendohawk24 (4641)","",,1710018261934
+103,22,7091,red,true,false,false,"[]","[]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Either played defense or spinned ",,1710018251924
+104,22,9034,red,false,false,false,"[]","[ss, ss, sm, sm, ss, ss]",2,false,0,0,0,2,0,2,2,2,"crescendohawks24 (4641)","",,1710018265368
+105,22,9533,blue,true,false,false,"[ss]","[ss, sa, ss]",1,false,0,0,0,2,0,1,1,0,"crescendohawk24 (4641)","",,1710018258083
+106,23,2848,red,false,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss, ss, ss, sm]",1,false,0,0,0,3,2,3,3,4,"cresendohawk24 (4641)","",,1710018747101
+107,23,4641,red,true,false,false,"[ss]","[ss]",1,false,0,0,0,2,2,3,2,2,"crescendohawk24 (4641)","",,1710018734755
+108,23,8573,red,false,false,false,"[ss]","[ss, ss, ss]",0,false,0,0,0,2,0,2,2,2,"crescendohawks24 (4641)","Stopped a couple times during the match",,1710018747000
+109,23,5417,blue,false,false,false,"[ss]","[]",0,false,0,122750,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710018718363
+110,24,6526,red,false,false,false,"[]","[]",1,false,0,0,0,0,0,0,1,0,"crescendohawks24 (4641)","Just watching this bot made me nervous, felt like it would tip at the slightest boost, got slightly better when shooter was lowered\n\nHad no idea what it was doing",,1710019194746
+111,24,8732,red,false,false,false,"[]","[]",0,false,0,0,0,2,3,3,2,0,"crescendohawk24 (4641)","",,1710019159798
+112,24,9128,red,false,true,false,"[ss, ss, ss, ss]","[as, as, as, as, as, as]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710019554008
+113,24,3282,blue,false,false,false,"[]","[]",0,false,15400,37650,28450,0,1,0,0,0,"crescendohawk24 (4641)","",,1710019145608
+114,25,5431,red,true,false,false,"[]","[sm, as, am]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Stopped half way though the match",,1710019711192
+115,25,7091,red,true,false,false,"[]","[]",1,false,0,0,83600,3,2,2,2,0,"crescendohawk24 (4641)","no swerve drive",,1710019719385
+116,25,9786,red,true,false,false,"[]","[sm, sm, sm]",1,false,0,0,0,0,0,0,2,2,"crescendohawks24 (4641)","They have issues with their shooter. They have a metal bar that I assume is supposed to stop the note from going further, except the note kept slipping through which messed up their shots",,1710019758330
+117,25,6171,blue,false,false,false,"[]","[]",0,false,0,104900,6400,0,0,0,0,0,"crescendohawk24 (4641)","moved wrong direction in auto",,1710019694802
+118,26,6768,red,false,false,false,"[sm]","[as, as, as, as, as, as, as, as]",2,false,0,0,0,3,2,3,2,3,"crescendohawk24 (4641)","",,1710020160211
+119,26,6901,blue,false,false,false,"[]","[]",1,false,0,95900,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710020148490
+120,27,5572,red,true,true,false,"[sm, ss, ss]","[sm, sm, sm, sm, sm, sm, ss]",1,false,0,0,0,1,2,2,2,3,"crescendohawk24 (4641)","",,1710020586903
+121,27,7503,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawks24 (4641)","It was just drifting, very much a struggling bot",,1710020648224
+122,27,4641,blue,false,true,false,"[ss]","[ss, ss, ss, sm, ss, ss]",1,false,0,0,0,2,0,3,2,2,"crescendohawk24 (4641)","",,1710020591631
+123,28,3735,red,false,false,false,"[]","[ss, as, as, ss, ss, sa, sm, ss]",1,true,0,0,0,4,2,2,3,3,"crescendohawk24 (4641)","",,1710021330090
+124,28,7521,red,false,false,false,"[]","[]",2,false,0,4000,2000,0,2,1,2,0,"cresendohawk24 (4641)","",,1710021356425
+125,28,9752,red,true,true,false,"[ss, ss, ss, ss]","[as, sa, as, sa, as, as]",0,false,0,0,0,4,0,4,4,4,"crescendohawks24 (4641)","Did no defense ",,1710021338828
+126,28,2848,blue,true,true,false,"[ss]","[ss, ss]",0,false,0,96850,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710021319571
+127,29,1296,red,true,false,false,"[]","[ss, ss, ss, ss, ss, sm, ss, ss]",1,false,0,0,0,3,3,2,2,3,"cresendohawk24 (4641)","",,1710022104905
+128,29,148,red,false,true,false,"[ss]","[ss, sm, ss, ss, ss, ss, ss, ss, sm, ss]",1,false,0,0,0,4,0,4,4,4,"crescendohawks24 (4641)","Didn't do defense ",,1710022110022
+129,29,5417,red,false,true,false,"[ss]","[ss, ss]",2,false,0,0,0,2,2,2,2,3,"crescendohawk24 (4641)","",,1710022227630
+130,29,8732,blue,false,false,false,"[sm]","[]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1710022087841
+131,30,4641,red,true,true,false,"[ss, ss]","[ss, ss, ss, ss, sm, sm]",1,false,0,0,0,3,0,3,4,3,"crescendohawks24 (4641)","No defense ",,1710022635806
+132,30,6768,red,false,false,false,"[ss]","[as, as, as, ss]",3,false,0,0,0,3,2,3,2,3,"crescendohawk24 (4641)","",,1710022621249
+133,30,7091,red,true,false,false,"[]","[]",1,false,0,1000,3000,1,3,1,2,0,"cresendohawk24 (4641)","Played defensive the whole time",,1710022631554
+134,30,5431,blue,true,true,false,"[]","[sm, sm, sm, sm, as]",1,false,0,0,37450,1,2,0,0,2,"crescendohawk24 (4641)","",,1710022621224
+135,31,6171,red,true,false,false,"[]","[am]",0,false,0,0,0,0,0,0,0,0,"crescendohawks24 (4641)","It's just there",,1710023153596
+136,31,7121,red,true,false,false,"[]","[ss, as, sm, sm, ss]",1,false,0,0,0,3,2,2,2,3,"crescendohawk24 (4641)","Long Shot",,1710023146853
+137,31,6901,blue,false,false,false,"[ss]","[ss]",1,false,0,47850,24400,0,0,0,0,0,"crescendohawk24 (4641)","",,1710023117824
+138,32,148,red,true,true,false,"[ss, sm]","[ss, sm, ss, ss, sm, sm, ss, ss, sm, ss, sm, ss, ss, sm]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710023836171
+139,32,3282,red,false,false,false,"[]","[]",1,false,0,2350,0,1,1,3,2,2,"crescendohawk24 (4641)","",,1710023838129
+140,32,9533,red,true,false,false,"[ss]","[]",1,false,0,0,0,0,0,0,0,0,"crescendohawks24 (4641)","Shot notes to their teammate\n\nNot consistent with intake",,1710023953403
+141,32,8732,blue,false,false,false,"[]","[]",1,false,4800,12000,67950,0,1,0,0,0,"crescendohawk24 (4641)","No auto\n\nbringing notes to teammate",,1710023828736
+142,33,1745,red,true,true,false,"[ss, ss]","[am, as, ss, as, ss, ss, ss, as, ss]",1,true,0,0,0,3,0,3,3,3,"crescendohawks24 (4641)","Didn't defend ",,1710024287527
+143,33,5417,red,false,false,false,"[ss]","[ss, ss, ss]",2,false,0,0,0,3,1,2,2,3,"cresendohawk24 (4641)","",,1710024307121
+144,33,5788,red,false,true,false,"[]","[ss, ss, ss, ss]",0,false,0,64150,0,2,2,2,1,3,"crescendohawk24 (4641)","",,1710024293109
+145,33,5572,blue,true,true,false,"[ss]","[ss, ss]",0,false,0,69850,0,1,0,2,0,1,"crescendohawk24 (4641)","",,1710024280747
+146,34,9034,red,false,false,false,"[]","[]",2,false,0,40700,0,1,0,2,2,1,"crescendohawk24 (4641)","",,1710024863096
+147,34,9407,red,false,false,false,"[sm]","[sm, ss]",0,false,0,0,0,0,0,0,1,2,"crescendohawks24 (4641)","",,1710024894525
+148,35,148,red,true,true,false,"[ss, ss]","[as, sm, ss, ss, ss, sm, sm, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,4,2,4,3,4,"crescendohawk24 (4641)","",,1710025292858
+149,35,7091,red,true,false,false,"[]","[]",1,false,0,49650,0,1,0,1,2,0,"crescendohawks24 (4641)","The robot seems to not be able to shoot and only has a hook to use.",,1710025286980
+150,35,8732,red,true,false,false,"[]","[]",1,false,0,0,0,2,3,3,2,1,"cresendohawk24 (4641)","Play’s defensive, passing nodes to allies",,1710025303283
+151,35,5431,blue,true,false,false,"[]","[ss, ss, ss, sm, sm]",1,false,0,0,44450,2,2,2,2,1,"crescendohawk24 (4641)","",,1710025286665
+152,36,6526,red,false,false,false,"[]","[]",2,false,0,0,950,0,2,0,2,0,"crescendohawk24 (4641)","",,1710025845919
+153,36,9752,red,true,true,false,"[sm, ss, ss, ss]","[as, as, as, as, ss, as, as, ss, ss, ss]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710025850931
+154,36,9752,red,true,true,false,"[ss, ss, ss, sm]","[as, as, as, sm, ss, as, as]",2,false,0,0,0,4,0,4,3,4,"crescendohawks24 (4641)","",,1710025920484
+155,36,4641,blue,true,false,false,"[sm]","[ss, ss, ss, sm, sm, ss, ss]",2,false,0,0,0,3,0,3,2,2,"crescendohawk24 (4641)","",,1710025835603
+156,43,1296,red,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,4,2,3,3,3,"crescendohawk24 (4641)","",,1710077839077
+157,43,9034,red,false,true,false,"[sm]","[ss, ss, ss, sm, sm]",1,false,0,0,0,1,1,1,2,1,"crescendohawk24 (4641)","Intake very inconsistent, runs over notes multiple time just to pick up 1\n\nRobot seemed lost a couple of times ",,1710077913710
+158,43,2848,blue,true,true,false,"[ss, ss]","[sm, ss, ss, ss, ss, ss, sa, sm, ss, ss, ss]",1,false,0,0,0,4,2,2,3,4,"cresendo hawk24 (4641)","The Robot was very consistent with its shooting and scored the most for blue throughout the match ",,1710077864056
+159,43,6768,blue,false,true,false,"[ss]","[as, as, sm, as]",1,false,0,0,0,2,0,2,0,2,"crescendohawk24 (4641)","",,1710077876168
+160,43,7503,blue,true,false,false,"[]","[]",0,true,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Was extremely focused on defense\nIt seem luke there were something wrong with their shooter\nToward the end landed on stage",,1710077838401
+161,44,5788,red,false,false,false,"[]","[sm, sm, sm, sm, sm]",1,false,0,0,1000,0,0,0,0,0,"cresendohawk24 (4641)","Bad aim",,1710078518470
+162,44,7521,red,false,false,false,"[]","[]",0,false,0,0,0,0,2,1,1,0,"crescendohawk24 (4641)","Defense bot",,1710078490394
+163,44,9128,red,true,true,false,"[ss, ss, ss, ss]","[as, as, ss, ss, sm]",1,false,0,0,0,3,2,3,3,4,"crescendohawk24 (4641)","",,1710078501513
+164,44,4641,blue,true,true,false,"[ss]","[sm, ss, ss, ss, sm, ss, ss]",0,false,0,0,0,2,2,3,4,3,"cresendo hawk24 (4641)","We had a good plan of what to do with the note being stuck in our teammate. I feel like speed of getting a note has been a problem for a little while",,1710078548300
+165,44,7091,blue,true,false,false,"[]","[]",0,false,98600,1550,0,0,1,0,0,0,"crescendohawk24 (4641)","",,1710078456581
+166,44,9752,blue,true,true,false,"[ss]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710078516490
+167,45,1745,red,true,true,false,"[]","[as, as, as, sa, sa, sm, ss, ss, ss, as, ss]",1,false,0,0,0,3,2,2,3,3,"crescendohawk24 (4641)","No camera ",,1710079133874
+168,45,5572,red,true,true,false,"[sm, ss, ss, ss]","[ss, sm, sm, sm, sm]",0,false,0,0,0,2,0,2,2,1,"crescendohawk24 (4641)","In the beginning it could pick up notes easily, nearing the middle and end of the match it struggled until it stopped moving\n\nNo defense this match",,1710079183769
+169,45,7119,red,false,false,false,"[]","[]",2,false,0,3000,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710079141486
+170,45,3282,blue,false,false,false,"[]","[]",1,false,0,0,86050,0,0,1,0,0,"crescendohawk24 (4641)","No intake/ way to shoot",,1710079140479
+171,45,7121,blue,true,true,false,"[ss, ss, ss]","[as, ss, ss, ss, ss, ss, ss, ss]",0,false,0,0,0,3,1,3,3,4,"cresendo hawk24 (4641)","The robot was very consistent with it’s shooting, as well it’s speed to grab notes are fast. Seems like the team did bring them down though considering they were the main ones shooting",,1710079196724
+172,45,9407,blue,false,false,false,"[]","[tm, tm, tm, tm, sm]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Did not do anything in the match\nDid not have an intake system \nThe focused on traps instead of defense  they were pretty much useless\n",,1710079186031
+173,46,3735,red,true,true,false,"[ss]","[ss, as, as, as]",1,false,0,35850,0,2,2,2,3,3,"crescendohawk24 (4641)","",,1710079818407
+174,46,6526,red,false,true,false,"[]","[]",1,false,0,0,0,0,1,0,0,0,"crescendohawk24 (4641)","Robot has noticable ground pickup\n\nDidn't do anything this match thought it was broken until it moved to park ",,1710079853865
+175,46,9533,red,true,true,false,"[ss]","[sm, ss, sm]",1,false,0,0,0,2,2,1,2,1,"cresendohawk24 (4641)","",,1710079903349
+176,46,148,blue,true,false,false,"[sm]","[as, ss, ss, ss, ss, sm, ss, ss, ss, ss, ss, ss]",0,false,0,0,0,4,4,4,4,4,"crescendohawk24 (4641)","",,1710079802202
+177,46,8573,blue,false,false,false,"[]","[ss, ss]",0,false,0,17800,0,0,0,0,0,0,"cresendohawk24 (4641)","It was working then started bricking but it was pretty good",,1710079808681
+178,46,9786,blue,true,false,false,"[]","[sm]",0,false,0,0,2000,1,1,2,1,0,"cresendo hawk24 (4641)","The robot seemed to only try and shoot once(but not enough power). It seemed to not know if it wanted to play defensively or not leading it to be just there",,1710079827836
+179,47,4192,red,false,false,false,"[]","[as, ss, sm, ss, ss, ss, sm, ss]",1,false,0,0,0,3,2,3,3,3,"crescendohawk24 (4641)","",,1710080466313
+180,47,4641,red,true,true,false,"[ss, ss]","[sm, sm, sm, ss, ss, ss, ss]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710080426634
+181,47,6901,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Did not move at all",,1710080300727
+182,47,5417,blue,true,true,false,"[]","[as, ss, ss, ss, sm]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","They were pretty good\n",,1710080307872
+183,47,5431,blue,false,false,false,"[]","[am]",1,false,0,0,19750,2,3,3,4,0,"cresendo hawk24 (4641)","They only shot once and missed . Then were defensive for the rest of the match doing a well job.",,1710080335552
+184,47,6171,blue,true,false,false,"[]","[]",0,false,0,0,58050,1,2,0,3,0,"crescendohawk24 (4641)","",,1710080301043
+185,48,2848,red,true,true,false,"[ss, ss]","[ss, sm, ss, ss, ss, ss, sm, ss, ss, ss, sm, ss, ss]",1,false,0,0,0,3,1,3,3,4,"crescendohawk24 (4641)","Takes about 3 seconds (I counted) to lower shooter and shoot the note\n\nVery good to get notes and drop them off by 2848 very consistent and quick intake\n\nDid not defend",,1710080934617
+186,48,8732,red,true,false,false,"[]","[]",0,false,0,0,0,0,0,3,2,2,"crescendohawk24 (4641)","",,1710080840282
+187,48,9034,red,false,false,false,"[ss]","[sm, ss, sm, sm]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710080831622
+188,48,1296,blue,true,false,false,"[]","[ss, ss, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,0,0,4,4,4,"cresendohawk24 (4641)","Chain -could not get arm up gpr some reaxom ",,1710080905705
+189,48,6768,blue,false,false,false,"[]","[as, as, as, as, as]",2,false,0,0,0,2,2,2,4,2,"cresendo hawk24 (4641)","The robot served more as a support then anything. It will heavily rely on their teammates to score for them",,1710080861928
+190,48,9128,blue,true,true,false,"[sm]","[sm, ss, ss, ss, sm, ss]",2,false,550,0,0,1,0,2,3,1,"crescendohawk24 (4641)","",,1710080836749
+191,49,5572,red,true,false,false,"[sm]","[as, as, as, sm]",0,false,0,0,0,2,0,3,2,3,"crescendohawk24 (4641)","No defense\n\nStopped working near he end of the match, backed itself into a corner to not get in the way I assume, primarily did amp",,1710081496598
+192,49,8573,red,false,false,false,"[sm]","[]",2,false,0,0,0,2,2,2,2,0,"crescendohawk24 (4641)","",,1710081517305
+193,49,9752,red,true,true,false,"[ss, ss, ss]","[ss, as, as, sa, as, sa, sa, as, ss]",1,false,0,0,0,4,1,4,2,3,"cresendohawk24 (4641)","",,1710081478211
+194,49,3735,blue,true,true,false,"[ss, ss]","[sm, as, as, ss, ss, as, sm, am, as]",1,false,0,0,0,2,1,2,3,4,"cresendo hawk24 (4641)","The bot was very consistent with grabbing the notes fast. However it’s aim was very iffy with it missing almost half the shots they got",,1710081528616
+195,49,7503,blue,true,false,false,"[]","[]",2,false,0,0,104200,2,4,2,4,0,"crescendohawk24 (4641)","No intake",,1710081448987
+196,49,9786,blue,false,false,false,"[]","[sm, sm]",0,false,0,0,0,2,0,2,3,0,"cresendohawk24 (4641)","Did not have an intake system\nDid not do much",,1710081465386
+197,50,5788,red,true,true,false,"[ss]","[ss, ss, ss, ss, ss, ss, ss, ss, sm, ss]",0,false,0,0,0,3,2,2,3,3,"crescendohawk24 (4641)","",,1710082064676
+198,50,7091,red,true,false,false,"[]","[]",1,false,0,0,0,0,1,0,0,0,"crescendohawk24 (4641)","Defense bot, halfway decent at defending",,1710082099572
+199,50,3282,blue,true,false,false,"[]","[]",0,false,0,0,22000,0,0,0,0,0,"cresendohawk24 (4641)","No intake no shooter all they were able to do was defend",,1710081975857
+200,50,4192,blue,false,false,false,"[ss]","[ss, as, ss, ss, sm, ss, ss, sm, ss, ss]",1,false,0,0,0,4,2,3,3,4,"cresendo hawk24 (4641)","The bot overall is very consistent with its shots and intake. It was able to speed through the field quickly as well. They only missed two shots in the whole game",,1710082139310
+201,50,7119,blue,false,false,false,"[ss]","[]",1,false,6950,0,61900,2,1,2,3,0,"crescendohawk24 (4641)","Intake didnt work",,1710082058714
+202,51,6526,red,false,false,false,"[]","[]",0,false,41700,0,0,2,1,1,3,0,"crescendohawk24 (4641)","Drove around for a bit then parked",,1710082574143
+203,51,6901,red,true,false,false,"[ss]","[ss, ss, ss, sm]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710082545748
+204,51,6901,red,false,false,false,"[]","[ss, sm]",1,false,0,0,0,1,1,1,2,1,"crescendohawk24 (4641)","Notes made is after the 55 second mark",,1710082591246
+205,51,1745,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss]",1,false,0,7000,0,1,0,0,0,3,"crescendohawk24 (4641)","",,1710082571481
+206,51,6768,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1710082513034
+207,51,9034,blue,false,false,false,"[sm]","[]",1,false,0,4700,0,1,2,3,3,2,"cresendo hawk24 (4641)","It seems that the person controlling the bot didn’t know what to do exactly if it wanted to be support or a main shooter. Leading to a subpar performance ",,1710082576424
+208,52,1296,red,true,true,false,"[ss, ss]","[as, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,3,2,2,2,4,"crescendohawk24 (4641)","",,1710083334051
+209,52,8732,red,true,false,false,"[]","[]",1,false,0,0,0,2,3,2,2,0,"crescendohawk24 (4641)","Auto:got almost as far as center line\n\nTeleop:did defense ",,1710083375348
+210,52,9407,red,false,false,false,"[ss]","[]",1,false,0,0,3000,0,0,0,0,0,"cresendohawk24 (4641)","",,1710083385142
+211,52,148,blue,true,true,true,"[sm, ss]","[as, ss, ss, ss, sm, ss, ss, ss, ss, ss, ss, ts]",2,false,0,0,0,4,3,4,4,3,"cresendo hawk24 (4641)","The bot was fast and efficient leading to them being the main powerhouse in the match",,1710083348274
+212,52,4641,blue,true,true,false,"[ss, sm]","[ss, ss, ss, sm]",2,false,0,0,0,2,0,2,3,2,"crescendohawk24 (4641)","",,1710083321820
+213,52,7503,blue,false,false,false,"[]","[]",0,false,0,0,55050,3,4,3,3,2,"cresendohawk24 (4641)","No intake no shooter when on defense\n",,1710083331942
+214,53,5417,red,false,false,false,"[]","[ss, ss, ss]",0,false,0,83850,0,2,2,3,1,3,"crescendohawk24 (4641)","Probably would have scored 6 if they didn’t break down",,1710083749328
+215,53,7121,red,true,false,false,"[ss]","[as, sm, ss, ss, ss]",2,false,0,0,0,2,0,1,2,2,"crescendohawk24 (4641)","Slow robot\n\nSeems like shooter speed is enough to barely make it into speaker ",,1710083758333
+216,53,9533,red,true,false,false,"[ss]","[]",1,false,0,0,1000,2,2,1,1,1,"cresendohawk24 (4641)","",,1710083725801
+217,53,5431,blue,false,false,false,"[]","[]",1,false,0,5750,17200,2,2,2,3,0,"cresendo hawk24 (4641)","The bot seemed to be  \nsupport with it trying to give the other bots as much notes as they could. Although they decided to be defensive half way through ",,1710083787173
+218,53,9128,blue,true,true,false,"[ss, ss, ss, ss]","[ss, ss, sm, ss, sm, sm, ss, ss, ss, ss, sm, ss, sa]",2,false,0,0,0,4,0,4,4,3,"crescendohawk24 (4641)","",,1710083726880
+219,54,2848,red,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,3,2,2,2,4,"crescendohawk24 (4641)","",,1710084487991
+220,54,4192,red,true,true,false,"[ss]","[as, as, ss, ss, ss, sm, ss]",1,false,0,0,0,3,0,2,2,3,"crescendohawk24 (4641)","No defense\n\nSmooth pickup ",,1710084190285
+221,54,6171,red,true,false,false,"[]","[]",2,false,0,0,2000,0,0,0,0,0,"cresendohawk24 (4641)","",,1710084163918
+222,54,1745,blue,false,true,false,"[]","[as, as, as, as, as, ss, as, as, ss, sa]",0,false,0,0,0,4,0,4,3,3,"cresendohawk24 (4641)","Mostly focused on amp",,1710084440724
+223,54,7521,blue,false,false,false,"[]","[]",0,false,0,0,0,2,1,1,0,0,"cresendo hawk24 (4641)","It’s hard to say how good a bot is when. It’s just support but compared to the others I’ve seen it could be better since it has poor defensive capabilities ",,1710084172074
+224,54,8573,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss]",0,false,0,15300,0,2,0,2,3,3,"crescendohawk24 (4641)","",,1710084165707
+225,55,6901,red,false,true,false,"[sm]","[am, sm, sm, ss, ss, sm]",2,false,0,0,0,2,2,1,3,2,"cresendohawk24 (4641)","",,1710084648070
+226,55,9034,red,false,false,false,"[ss]","[ss, ss, ss, ss, ss]",0,false,0,0,0,2,1,2,2,2,"crescendohawk24 (4641)","",,1710084745935
+227,55,148,blue,false,false,false,"[ss]","[ss, ss, ss, ss, ss, ss, tm]",2,false,0,0,0,4,0,4,4,4,"cresendohawk24 (4641)","Very very good",,1710084692425
+228,55,4641,blue,false,true,false,"[ss]","[ss]",2,false,0,0,0,3,1,3,4,2,"cresendo hawk24 (4641)","Being support and shooting it was a smart idea however going for the corner piece wasn’t a smart idea considering we were at it for around 10 seconds ",,1710084688351
+229,55,5788,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss, ss, sm]",0,false,0,0,0,4,0,3,4,3,"crescendohawk24 (4641)","",,1710084635358
+230,56,1296,red,true,true,false,"[ss]","[as, ss, ss, ss, ss, ss, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,3,0,3,3,4,"crescendohawk24 (4641)","No defense",,1710085135522
+231,56,5431,red,false,false,false,"[]","[]",1,false,0,27000,18450,0,1,0,0,0,"crescendohawk24 (4641)","Shooter wasnt working",,1710085107488
+232,56,9786,red,true,false,false,"[]","[sm]",1,false,0,1000,2000,2,3,2,2,1,"cresendohawk24 (4641)","",,1710085122260
+233,56,6526,blue,false,false,false,"[]","[sm]",1,false,0,0,0,1,0,1,2,0,"cresendo hawk24 (4641)","Honestly couldn’t tell what the bot did. It shot once and missed and was really just there for the rest of the match ",,1710085130822
+234,56,9752,blue,false,true,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","It just stoped did nothing",,1710085118379
+235,57,3735,red,true,true,false,"[ss]","[ss, sm, sm, as, sm, am, sa, sm, ss, sm, ss]",1,false,0,0,0,2,0,2,3,3,"crescendohawk24 (4641)","",,1710085670592
+236,57,6768,red,false,true,false,"[ss]","[as, as, am, as, as]",1,false,0,0,0,1,0,1,2,2,"crescendohawk24 (4641)","No defense\n\nSmooth intake, takes a second to line up for note",,1710085723357
+237,57,5572,blue,true,false,false,"[ss, ss, ss]","[sm, sm, sm, ss, ss, sm, sm, sm, sm, sm]",0,false,0,0,0,2,1,3,3,4,"cresendo hawk24 (4641)","They seemed very good with getting the notes but were poor at shooting being greedy trying to shoot quite a bit away",,1710085863353
+238,58,9128,red,true,true,false,"[ss, ss, ss, ss]","[as, ss, ss, ss]",1,false,0,0,0,4,2,4,2,3,"cresendohawk24 (4641)","",,1710086349557
+239,58,9533,red,false,false,false,"[sm]","[ss]",1,false,0,0,0,1,1,1,1,2,"crescendohawk24 (4641)","Started shooting notes to red side to help teammates ",,1710086362895
+240,58,2848,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss, ss, ss, ss, sm, ss, ss]",1,false,0,0,0,4,0,4,4,3,"crescendohawk24 (4641)","intake proces takes a bit with possibility of malfunction",,1710086382413
+241,58,7091,blue,false,false,false,"[]","[]",0,false,0,128850,0,0,0,0,0,0,"cresendo hawk24 (4641)","First impression is that it’s a support bot. It hasn’t moved since the beginning of the game can’t tell if something is happening with their code or they are blocking Red’s supply chain.",,1710086338373

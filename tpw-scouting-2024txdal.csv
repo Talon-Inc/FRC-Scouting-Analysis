@@ -1,0 +1,449 @@
+,match,team,alliance,leave,"ground pick-up","center line pick-up","auto scoring","teleop scoring","stage level",spotlight,"stage time","brick time","defense time","driver skill","defense skill",speed,stability,"intake consistency",scouter,comments,accuracy,timestamp
+0,1,4597,red,true,true,false,"[]","[sm, sm]",1,false,0,0,0,1,1,1,1,2,"crescendohawk24 (4641)","",,1711121738480
+1,1,7506,red,false,false,false,"[]","[sm]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","They were extremely lost\n\nFrom what I could see their driving isn't very good\n\nWhen at speaker they would do what looked like to be an amp scoring\n\nTried to score in amp note never left the bot\n\nNote fell out of bot when attempting to shoot because they did amp movements ",,1711121831412
+2,1,9506,red,false,false,false,"[sm]","[ss, sm, ss, sm, ss]",0,false,0,0,0,2,1,2,1,3,"cresendohawk24 (4641)","",,1711121793984
+3,1,4641,blue,true,true,false,"[ss, sm, sm]","[ss, am, ss, ss, sm, ss, ss]",2,false,0,0,0,3,0,2,2,4,"crescendohawk24 (4641)","",,1711121737704
+4,1,5212,blue,true,true,false,"[]","[as, as]",0,false,0,2000,0,0,0,0,0,0,"crescendohawk24 (4641)","The information might not be corect as i could not see anything",,1711121795072
+5,1,9140,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Robot made no movement for the entire round.",,1711122812421
+6,2,1296,red,true,true,false,"[sm, ss, ss, sm]","[as, as, as, sa, as, ss]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","It’s 4 node auto still worked after missing a node and took awhile for its amp so it collect node then does amp ",,1711122725350
+7,2,4332,red,false,false,false,"[]","[]",1,false,0,0,0,1,1,0,1,0,"crescendohawk24  (4641)","Bot was slow and defense looked alright",,1711122698991
+8,2,7091,red,false,false,false,"[]","[]",0,false,0,128750,0,0,0,0,0,0,"crescendohawk24 (4641)","Did nothing ",,1711122650621
+9,2,8598,blue,false,false,false,"[]","[ss, ss, as]",2,false,0,0,0,3,0,3,0,2,"crescendohawk24 (4641)","No movement during autonomous; made it on stage.",,1711122752087
+10,2,8732,blue,true,true,true,"[sm]","[sm, sm, sm, sm, ss, ss, ss, ss]",0,true,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Their auto is really good but they are bad at aiming",,1711122712074
+11,2,8874,blue,false,false,false,"[]","[sm, as, as]",1,false,0,8350,20000,0,0,0,2,2,"crescendohawk24 (4641)","",,1711122699603
+12,3,5431,red,true,false,false,"[ss]","[ss, ss, ss, ss, ss, ss, ss, ss, ss, ss, sm, ss]",0,false,0,0,0,3,2,4,2,4,"cresendohawk24 (4641)","Very fast intake and shooting system, very fast in general",,1711123283653
+13,3,6171,red,true,false,false,"[]","[as]",0,false,0,0,0,1,0,1,1,0,"crescendohawk24  (4641)","Shaky when their shooter is up\n\nSlow with scoring \n\nCouldn't tell if they were dying to defend or being defended against \n\nIntake did not pick up anything",,1711123286736
+14,3,6901,red,false,true,false,"[sm]","[sm]",1,false,0,0,0,1,0,2,0,2,"crescendohawk24 (4641)","",,1711123227085
+15,3,4364,blue,false,false,false,"[]","[]",1,false,0,26950,69400,2,3,2,2,0,"crescendohawk24 (4641)","didnt move just shakes in auto, not bad defense\ncouldnt shoot or intake",,1711123239667
+16,3,5788,blue,true,true,false,"[ss]","[ss, ss, ss, ss, ss, ss]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711123226374
+17,3,5894,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Pushed forward by other robot during auto, but didn’t move for the rest of the round.",,1711123246925
+18,4,148,red,true,true,true,"[sm, sm]","[]",2,false,0,0,0,4,4,4,2,1,"amoon (4641)","Note got stuck so they played defense the rest of the time ",,1711124047723
+19,4,4717,red,false,false,false,"[]","[]",1,false,0,0,0,2,2,2,2,0,"crescendohawk24 (4641)","",,1711124010387
+20,4,6526,red,false,false,false,"[ss]","[]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Note got stuck in its intake systems and just sat around the whole match",,1711124002664
+21,4,8749,blue,false,false,false,"[]","[ss, as, as, ss]",2,false,0,12000,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711124032713
+22,4,8816,blue,true,false,false,"[]","[]",0,false,0,58000,8950,1,1,2,2,0,"crescendohawk24 (4641)","didnt shoot and didnt intake at all",,1711124010474
+23,4,8827,blue,true,false,false,"[]","[sm, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,2,0,3,0,4,"crescendohawk24 (4641)","Really, really good intake. Shooting did seem to be a little inconsistent, but didn’t prevent them scoring high.",,1711124053541
+24,4,8827,blue,true,true,false,"[]","[sm, sm, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,2,2,3,3,3,"crescendohawk24 (4641)","Slow to aim",,1711124116671
+25,5,3676,red,true,true,false,"[]","[as, as, as, as]",2,false,0,0,0,3,1,3,2,3,"cresendohawk24 (4641)","",,1711124606527
+26,5,4610,red,true,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"amoon (4641)","Carried about 4 notes to red side with hook at top that note got hooked on from the feeder slot person. Didn't pick up or shoot. ",,1711124655229
+27,5,8019,red,true,true,false,"[ss]","[ss, sm, ss, sm, sa, ss, ss, ss]",1,false,0,0,0,3,2,2,2,3,"crescendohawk24 (4641)","",,1711124584876
+28,5,5417,blue,true,false,false,"[]","[as, as, as, as, as, sm, sm, ss, as]",0,false,0,0,0,2,0,4,4,3,"crescendohawk24 (4641)","Very fast, and consistent at scoring amps. Struggled to score speakers.",,1711124643699
+29,5,6357,blue,true,true,true,"[ss, ss, sm]","[ss, ss, ss, ss, sm, ss, sm, ss]",1,false,0,0,0,3,0,3,4,4,"crescendohawk24 (4641)","Very good team, they have the ability to climb",,1711124593226
+30,5,8858,blue,false,true,false,"[]","[ss, sm, ss, sm, ss, sm, ss]",1,false,0,0,0,3,2,2,1,1,"crescendohawk24 (4641)","",,1711124582913
+31,6,2583,red,true,false,true,"[sm]","[as, ss, as]",2,false,0,0,0,2,1,3,2,3,"cresendohawk24 (4641)","",,1711127085776
+32,6,3282,red,false,false,false,"[]","[]",1,false,0,0,52800,2,2,2,2,0,"crescendohawk24 (4641)","",,1711127096183
+33,6,9156,red,false,false,false,"[sm]","[]",1,false,0,0,0,1,0,1,2,1,"crescendohawk24  (4641)","Shooter looked like it wasn't fast enough to shoot\n\nVery slow\n\nCouldn't tell it it was staged but it very much attemoted it\n\nAnother bot hit it and the note fell out the the shooter getting stuck in the robot for the rest of match\n\n",,1711127179158
+34,6,2714,blue,true,true,false,"[ss, ss]","[as, am, as, am, ss]",2,false,0,20100,0,3,0,2,4,2,"crescendohawk24 (4641)","Theyre passing \ncapable of 3 note auto\nIntake went bad at the end",,1711127075719
+35,6,8625,blue,false,false,false,"[]","[]",1,false,0,0,0,0,0,2,4,3,"crescendohawk24 (4641)","Robot had really god intake but driver struggled to shoot any points.",,1711127152148
+36,6,9034,blue,false,false,false,"[sm]","[sm, ss]",2,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711127054681
+37,7,4639,red,true,true,false,"[sm, ss]","[ss, ss, ss, ss, ss, ss, sm, ss, ss, ss]",2,false,0,0,0,2,0,2,2,2,"crescendohawk24  (4641)","Quick with lining up and very accurate shooting\n\nOnly missed because note was picked up weirdly \n\n",,1711127554696
+38,7,7119,red,false,false,false,"[ss]","[sm, sm, sm, sm]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Kept on missing its shots",,1711127528980
+39,7,7321,red,true,false,false,"[sm]","[]",0,false,0,15550,51750,1,2,2,1,0,"crescendohawk24 (4641)","",,1711127534281
+40,7,6672,blue,true,true,true,"[sm, sm]","[as, ss, sm, ss, as, as, ss, sm, ss, ss, ss, ss]",2,false,0,0,0,4,0,3,4,3,"crescendohawk24 (4641)","",,1711127536683
+41,7,9418,blue,true,false,false,"[]","[sm, ss, ss, ss, ss]",3,false,0,0,0,3,0,3,3,4,"crescendohawk24 (4641)","Robot had really good intake, and only went for speakers. Also made harmony at the end of round.",,1711127576135
+42,8,6901,red,false,false,false,"[sm]","[sm]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Did not have enough power to shoot and took somewhere around 15 seconds to angle a shot but then gave up ",,1711128144198
+43,8,8598,red,true,true,false,"[sm, sm]","[]",1,false,0,0,0,1,0,2,2,2,"crescendohawk24  (4641)","Auto notes just shy of making it, probably not enough speed\n\nGot note stuck inside \n\n",,1711128106781
+44,8,8769,red,true,true,false,"[sm, sm]","[]",0,false,33300,800,0,2,1,2,1,0,"crescendohawk24 (4641)","",,1711128095036
+45,8,4364,blue,false,false,false,"[]","[]",1,false,0,75000,6000,1,0,1,3,0,"crescendohawk24 (4641)","",,1711128097883
+46,8,5212,blue,false,false,false,"[]","[]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711130787523
+47,8,8732,blue,true,true,false,"[sm, sm, ss]","[ss, ss, ss, ss, ss, ss, ss]",0,false,0,0,0,3,0,3,4,4,"crescendohawk24 (4641)","Very fast intake, and driver was able to consistently score speaker shots, with a few adjustments.",,1711128179624
+48,9,4597,red,false,false,false,"[]","[sm]",1,false,0,114400,0,2,2,2,1,1,"crescendohawk24 (4641)","",,1711131106149
+49,9,4641,red,false,true,false,"[ss, ss, ss, ss]","[ss, sm, ss, ss, ss, ss]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1711131083158
+50,9,7091,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","Wasn't on the field ",,1711131093803
+51,9,1296,blue,false,true,false,"[ss, ss]","[as, as, as, as, sa]",2,false,0,0,0,0,0,0,0,0,"crescendohawks24 (4641)","Passed to teammates ",,1711131103970
+52,9,1296,blue,true,true,false,"[ss, ss]","[tm, as, as, ss, as, as, ss, sm, ss]",0,false,0,0,0,4,0,2,3,3,"crescendohawk24 (4641)","They are a very good team\n",,1711131136141
+53,9,4717,blue,false,false,false,"[]","[ss, sm]",1,false,4000,11950,11850,0,0,1,0,0,"crescendohawk24 (4641)","horrible intake and cant shoot well",,1711131097460
+54,9,6171,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Robot wasn’t on field when round started. :(",,1711130986877
+55,10,4332,red,false,false,false,"[]","[ss]",1,false,0,1000,2000,0,0,0,0,0,"cresendohawk24 (4641)","Played defense after tele started and got ram into the amp multiple times",,1711131600733
+56,10,4610,red,true,false,false,"[]","[ss]",1,false,0,750,70900,3,3,2,2,1,"crescendohawk24 (4641)","",,1711131568813
+57,10,8749,red,false,false,false,"[ss]","[as, ss, as, sa, as, ss, sm]",1,false,0,0,0,2,0,2,1,2,"crescendohawk24  (4641)","",,1711131564620
+58,10,7506,blue,false,false,false,"[]","[as, ss, as, ss]",1,false,0,0,0,2,0,2,4,3,"crescendohawk24 (4641)","Driver seemed to have a hard time lining up shots. ",,1711131598509
+59,10,8827,blue,false,true,false,"[]","[sm]",1,false,0,0,60300,2,2,2,2,1,"crescendohawk24 (4641)","Bad shooting capabilities. It stops to shoot but take like 10 seconds to do so and then just misses.",,1711131603206
+60,11,6357,red,false,true,false,"[sm, ss, sm]","[sm, sm, ss, ss, sm, sm]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","It’s 4 note auto seems to be off, and it speedy but seems to have some terrible aim",,1711132160267
+61,11,9140,red,false,true,false,"[]","[sm, ss, ss, sm, ss, sm, ss, ss, ss, ss]",0,false,0,0,0,3,2,3,4,4,"crescendohawk24 (4641)","",,1711132132108
+62,11,9156,red,false,false,false,"[sm]","[as, as, am, ss, ss, as, as]",0,false,0,0,0,1,0,1,2,2,"crescendohawk24  (4641)","Slow on intake and shooting",,1711132118602
+63,11,5417,blue,true,true,false,"[ss]","[as, as, ss, sm, as, as, ss, ss]",1,false,0,0,0,2,0,2,4,3,"crescendohawk24 (4641)","",,1711132113836
+64,11,8816,blue,true,true,false,"[]","[sm]",2,false,0,0,0,0,0,2,4,3,"crescendohawk24 (4641)","Driver didn’t seem capable of scoring many shots.",,1711132146894
+65,12,4639,red,true,false,false,"[sm]","[am, ss, sm, ss, ss, ss, sm]",1,false,0,0,0,2,2,3,2,3,"cresendohawk24 (4641)","",,1711132604050
+66,12,8625,red,false,false,false,"[sm]","[]",0,false,0,0,0,2,2,2,2,0,"crescendohawk24  (4641)","Couldn't pick up a note \n\nSuddenly stopped near the end ",,1711132589786
+67,12,8874,red,true,true,false,"[ss, ss]","[ss, ss, sm, ss, sm, ss]",0,false,0,0,0,3,2,3,4,3,"crescendohawk24 (4641)","",,1711132590791
+68,12,6672,blue,false,true,false,"[]","[as, as, as, ss, as, as, ss, as, as, ss, ss, sa]",1,false,0,0,0,4,0,4,4,4,"crescendohawk24 (4641)","Super team/bot. Able to score amps and speakers easily.",,1711132623789
+69,13,3282,red,false,false,false,"[]","[]",1,false,0,0,4000,1,2,1,4,0,"cresendohawk24 (4641)","Played defense as soon as tele started",,1711133225566
+70,13,7321,red,false,false,false,"[sm]","[sm]",1,false,0,0,0,3,1,2,2,2,"crescendohawk24 (4641)","No ground pickup",,1711133227910
+71,13,8769,red,true,true,false,"[sm]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","Didn't work after autonomous ",,1711133215426
+72,13,2714,blue,false,true,false,"[]","[]",2,false,0,0,0,3,0,3,3,4,"crescendohawk24 (4641)","Made 1 in auto\n\nTypically brought middle notes to team\n6 speaker (2 shot from far) \nDidnt focus on defense",,1711133347253
+73,13,5894,blue,true,true,false,"[]","[sm, ss]",2,false,0,0,0,2,0,2,4,2,"crescendohawk24 (4641)","",,1711133214707
+74,13,7121,blue,true,true,false,"[ss, ss]","[ss, am, as, as, sm, as, ss, sa, sm]",1,false,0,0,0,3,0,3,4,4,"crescendohawk24 (4641)","",,1711133217140
+75,14,3676,red,false,false,false,"[ss, ss]","[as, am]",1,false,0,0,0,2,2,2,2,2,"crescendohawk24  (4641)","Missed note got stuck on it's hook\n\nAttempted chain",,1711133669952
+76,14,7119,red,false,false,false,"[]","[ss, ss, ss, ss, sm, ss]",1,false,0,1000,0,0,0,0,0,0,"cresendohawk24 (4641)","Slow bot but fast firing",,1711133652844
+77,14,8858,red,true,true,false,"[sm, ss]","[ss, ss, ss, ss, sm]",1,false,0,0,0,3,2,0,3,3,"crescendohawk24 (4641)","",,1711133654109
+78,14,148,blue,true,true,false,"[]","[]",2,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","4 auto attempted center pick up ( wouldve been 6)\n\n6 amp \n4 speaker\nAttempted trap ",,1711133703486
+79,14,9034,blue,false,true,false,"[]","[ss, ss]",2,false,0,0,0,2,0,2,4,2,"crescendohawk24 (4641)","Intake wasn’t super effective at picking up rings, and driver seemed to spend more time looking for or trying to shoot rings.",,1711133686524
+80,14,9506,blue,false,false,false,"[]","[sm, sm, sm, sm, sm]",1,false,0,0,0,0,0,1,2,0,"crescendohawk24 (4641)","if they increase their shooter speed they could score but it was always too low",,1711133669345
+81,15,4597,red,true,false,false,"[]","[]",2,false,0,0,0,1,1,1,1,3,"crescendohawk24  (4641)","Played support, delivered notes\n\nNotes dropped into bit via player station",,1711134129148
+82,15,4610,red,true,false,false,"[]","[as, as, as, as, as]",0,false,0,0,0,3,2,3,2,4,"cresendohawk24 (4641)","",,1711134090619
+83,15,5431,red,true,true,false,"[]","[ss, ss, sm, sm, sm, sm, sm, ss, ss, ss]",1,false,0,0,0,3,2,2,4,3,"crescendohawk24 (4641)","",,1711134076332
+84,15,1296,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss]",1,false,0,4000,0,0,0,0,0,0,"crescendohawk24 (4641)","Passed over stage for most of the match",,1711134083882
+85,15,8827,blue,true,true,false,"[sm, sm, ss, ss, ss, ss, ss, ss]","[]",1,false,0,0,0,0,0,0,0,0,"amoon (4641)","Google eyes",,1711134170261
+86,15,9418,blue,true,true,false,"[ss]","[ss, as, as, as, as, ss, ss, ss, ss]",0,false,0,0,0,4,0,4,4,4,"crescendohawk24 (4641)","Super team/bot.",,1711134088442
+87,16,4364,red,false,false,false,"[]","[am, as, as]",1,false,0,0,0,1,0,1,1,2,"crescendohawk24  (4641)","Note was knocked out with speaker easily when hit once",,1711135054540
+88,16,6901,red,true,false,false,"[]","[sm, sm, sm, sm, sm, ss]",1,false,0,0,0,2,1,2,2,2,"cresendohawk24 (4641)","",,1711135009069
+89,16,8816,red,false,false,false,"[]","[]",0,false,0,117400,0,0,0,0,0,0,"crescendohawk24 (4641)","Robot gone",,1711135001427
+90,16,2583,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Bot was not on field.",,1711134891247
+91,16,8749,blue,true,true,false,"[ss]","[as, ss, ss, ss, ss, as, as]",1,false,0,0,0,3,0,3,3,4,"crescendohawk24 (4641)","",,1711134986449
+92,17,4641,red,true,true,false,"[ss, ss, ss, ss]","[ss, ss, sm, ss, ss, sm]",1,false,0,0,0,3,0,2,3,3,"crescendohawk24  (4641)","",,1711135746222
+93,17,7506,red,false,false,false,"[]","[as]",1,false,0,0,1000,1,2,1,3,2,"cresendohawk24 (4641)","",,1711135741216
+94,17,8625,red,false,false,false,"[ss]","[]",0,false,0,0,0,2,2,2,1,0,"crescendohawk24 (4641)","",,1711135746256
+95,17,4639,blue,true,true,false,"[ss]","[as, as, as, as, as, as, as, am]",1,false,0,0,0,3,0,3,3,3,"crescendohawk24 (4641)","",,1711135023149
+96,17,4639,blue,false,false,false,"[]","[sm, ss, ss, sm, ss, ss]",2,false,0,0,0,3,0,3,3,2,"crescendohawk24 (4641)","",,1711135732340
+97,17,5788,blue,false,true,false,"[]","[ss, ss, ss, ss, ss, ss]",1,false,0,0,0,3,0,4,4,3,"crescendohawk24 (4641)","",,1711135732225
+98,17,9140,blue,false,true,false,"[]","[as, as, as, as, as, as, as, ss]",1,false,14600,0,0,2,0,2,3,4,"crescendohawk24 (4641)","",,1711135736095
+99,18,7121,red,true,true,false,"[ss, ss]","[ss, as, as, as]",0,false,0,0,0,3,2,2,2,3,"crescendohawk24 (4641)","",,1711136308159
+100,18,8769,red,true,false,false,"[]","[ss, sa, sa, sa]",2,false,0,0,0,2,0,2,2,2,"crescendohawk24  (4641)","Couple time when it shot the note when forwards causing the hot to need to pick it up again",,1711136316532
+101,18,8874,red,false,false,false,"[]","[as, as, as, as]",0,false,0,0,0,3,2,3,2,3,"cresendohawk24 (4641)","",,1711136323902
+102,18,5417,blue,false,false,false,"[sm]","[as, sm, sm, as, as, am, as]",0,false,0,0,0,1,0,2,1,1,"crescendohawk24 (4641)","",,1711136321011
+103,18,8732,blue,true,true,true,"[ss, sm, sm]","[ss, sm, sm, sm, ss, ss]",0,false,0,0,0,2,0,3,4,4,"crescendohawk24 (4641)","",,1711136316020
+104,18,9156,blue,false,false,false,"[]","[as]",0,false,0,0,0,0,0,2,4,0,"crescendohawk24 (4641)","Driver seemed to be driving around randomly, but might’ve been trying to play defense.",,1711136331643
+105,19,4332,red,false,false,false,"[]","[ss]",1,false,0,0,3000,2,3,1,2,1,"cresendohawk24 (4641)","",,1711136857322
+106,19,6526,red,false,true,false,"[]","[ss, ss]",0,false,0,0,0,0,0,0,2,1,"crescendohawks24 (4641)","Shaky intake ",,1711136867599
+107,19,9506,red,true,true,false,"[sm]","[sa, ss, ss]",1,false,0,0,0,2,0,2,2,1,"crescendohawk24  (4641)","Slow intake",,1711136859831
+108,19,148,blue,true,true,true,"[sm, sm, ss]","[ss, ss, ss, as, am, am]",2,false,0,0,0,4,0,4,4,4,"crescendohawk24 (4641)","",,1711136878247
+109,19,2714,blue,false,true,false,"[sm]","[ss, ss, ss, ss, ss, ss]",2,false,0,0,0,3,0,3,4,3,"crescendohawk24 (4641)","",,1711136852645
+110,19,3676,blue,true,true,false,"[ss, ss]","[as, as, sm]",1,false,0,0,0,2,0,2,2,1,"crescendohawk24 (4641)","",,1711136848706
+111,20,4717,red,false,false,false,"[]","[]",1,false,1700,0,2450,0,0,1,1,0,"crescendohawks24 (4641)","Bad intake and no swerve",,1711137366422
+112,20,8858,red,true,true,false,"[ss, sm]","[sm]",2,false,0,0,0,2,2,2,2,2,"crescendohawk24  (4641)","I believe something went wrong with  intake which is why they switched to defense",,1711137347128
+113,20,9034,red,true,true,false,"[sm, sm]","[ss, ss, ss, sm]",0,false,0,1000,0,3,1,3,1,3,"cresendohawk24 (4641)","",,1711137318597
+114,20,5431,blue,true,false,false,"[sm]","[ss, ss, ss, ss, sm, sm, ss, ss, sm, sm, ss, sm, ss]",1,true,0,0,0,3,0,2,3,2,"crescendohawk24 (4641)","",,1711137319710
+115,20,7321,blue,false,false,false,"[]","[sm]",1,false,20000,10450,21950,0,1,2,2,0,"crescendohawk24 (4641)","",,1711137310471
+116,20,8598,blue,false,true,false,"[]","[sm, ss, ss, ss, ss]",2,false,0,0,0,3,0,2,4,3,"crescendohawk24 (4641)","",,1711137314103
+117,21,7091,red,true,false,false,"[]","[]",2,false,0,0,3000,2,3,2,3,1,"cresendohawk24 (4641)","",,1711137779726
+118,21,7119,red,false,true,false,"[]","[tm, tm, ss, ss]",2,false,0,0,0,2,1,2,2,1,"crescendohawks24 (4641)","",,1711137800547
+119,21,9418,red,true,true,false,"[ss, ss, sm, sm]","[ss, ss, ss, ss, ss, ss]",2,false,0,0,0,3,0,3,3,3,"crescendohawk24  (4641)","No defense\n\nSomething went wrong with intake, began to struggle picking up notes",,1711137811007
+120,21,5212,blue,false,true,false,"[]","[as, as]",1,false,0,0,0,2,0,3,4,3,"crescendohawk24 (4641)","",,1711137776158
+121,21,5894,blue,true,true,false,"[ss]","[sm, sm, ss, ss, ss]",2,false,0,0,0,1,0,2,0,3,"crescendohawk24 (4641)","",,1711137757803
+122,21,6357,blue,false,false,false,"[]","[am, am, ss, ss, ss]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711137786032
+123,22,3282,red,false,false,false,"[]","[]",0,false,0,0,0,1,1,2,2,0,"crescendohawk24  (4641)","Defense bot, didn't do much defending, attempted to push notes",,1711138448106
+124,22,6672,red,false,true,false,"[ss, ss]","[as, sm, sa, ss, ss, ss, ss]",0,true,0,0,0,3,2,4,3,4,"cresendohawk24 (4641)","",,1711138424015
+125,22,8816,red,true,false,false,"[]","[ss]",0,false,0,0,0,2,2,2,2,2,"crescendohawk24 (4641)","",,1711138394767
+126,22,6171,blue,true,true,false,"[]","[]",1,false,0,0,0,0,0,0,4,0,"crescendohawk24 (4641)","Robot was initially moving, before getting stuck in the stage area.",,1711138397618
+127,22,7506,blue,false,false,false,"[]","[]",0,false,0,19300,51350,2,2,2,3,0,"crescendohawk24 (4641)","",,1711138400163
+128,23,4597,red,true,false,false,"[sm]","[sm, sm, sm]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Kept on missing and when their 10 seconds left went to go to the stage",,1711138978759
+129,23,7121,red,true,true,false,"[]","[as, as, as, ss, ss]",1,false,0,0,0,3,2,2,4,3,"crescendohawk24 (4641)","",,1711138943115
+130,23,8732,red,true,true,false,"[ss, ss]","[sm, ss]",0,false,0,0,0,0,0,2,2,2,"crescendohawk24  (4641)","Very out of control for most of the match after autonomous, not sure if it was a driver problem or bot problem ",,1711139019327
+131,23,6901,blue,false,false,false,"[]","[sm, sm, sm, sm, sm, ss, ss, ss]",0,false,0,0,0,2,0,2,1,2,"crescendohawk24 (4641)","",,1711138944215
+132,23,8019,blue,false,true,false,"[]","[ss, ss, ss, ss, ss, ss, ss, ss, ss, ss, sm]",1,false,0,0,0,4,0,3,4,4,"crescendohawk24 (4641)","Super team.",,1711138948225
+133,23,8625,blue,false,false,false,"[sm]","[]",0,false,0,78950,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711138929565
+134,24,4364,red,true,false,false,"[]","[]",1,false,0,55800,39400,2,1,2,0,0,"crescendohawk24 (4641)","",,1711139362787
+135,24,8769,red,false,false,false,"[]","[ss]",2,false,0,0,3000,0,0,0,0,0,"cresendohawk24 (4641)","A note got stuck in its intake ",,1711139349995
+136,24,9140,red,true,true,false,"[ss]","[sm, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,3,0,3,3,3,"crescendohawk24  (4641)","",,1711139375366
+137,24,148,blue,true,true,true,"[sm]","[as, as, as, as]",2,false,0,0,0,3,0,4,4,4,"crescendohawk24 (4641)","",,1711139514320
+138,24,4332,blue,false,false,false,"[]","[]",2,false,0,0,0,2,4,3,4,0,"crescendohawk24 (4641)","This is the team with the big bullseye (supposed to block people).",,1711139355952
+139,24,4641,blue,true,true,false,"[sm, ss, ss, ss]","[ss, ss, ss, ss, sm, ss, ss, ss, sm]",2,true,15000,0,0,3,0,2,3,3,"crescendohawk24 (4641)","",,1711139418068
+140,25,5788,red,true,false,false,"[ss]","[ss, ss, ss, ss, ss]",1,false,0,0,0,3,2,3,3,4,"cresendohawk24 (4641)","",,1711139888941
+141,25,8827,red,true,true,false,"[]","[ss, ss, ss, ss, ss, ss, sm]",1,false,0,0,0,3,0,3,2,3,"crescendohawk24  (4641)","When it prepares shooter to shoot note it has to slow down or stop or else the momentum could potentially flip it",,1711139954974
+142,25,9034,red,true,true,false,"[sm]","[ss, sm, ss]",0,false,0,58850,0,3,2,2,2,3,"crescendohawk24 (4641)","",,1711139867305
+143,25,1296,blue,true,true,false,"[ss, ss, ss]","[as, as, as, as, sm, as]",0,false,0,0,0,2,0,0,0,0,"crescendohawk24 (4641)","Crash into a lot of object the robot also looked like it was twicthing",,1711139931745
+144,25,5431,blue,true,true,false,"[ss]","[ss, sm, ss, sm, sm, sm, ss, ss, ss, sm, sm, ss]",0,false,0,0,0,2,0,2,3,4,"crescendohawk24 (4641)","driver kept trying to shoot from stage pole and kept missing every time",,1711139903337
+145,25,9506,blue,false,true,false,"[ss]","[ss, ss, ss]",1,false,0,0,0,3,0,3,4,3,"crescendohawk24 (4641)","",,1711139875158
+146,26,3676,red,false,false,false,"[ss]","[]",1,false,0,0,3000,0,0,0,0,0,"cresendohawk24 (4641)","Played defensive the entire time",,1711140493170
+147,26,5894,red,false,true,false,"[]","[ss, ss, ss, ss, ss, ss]",1,false,0,0,0,3,2,2,3,3,"crescendohawk24 (4641)","",,1711140485781
+148,26,9418,red,true,true,false,"[ss]","[ss, ss, sm, ss, ss, ss, ss, ss]",1,true,0,0,0,3,0,3,3,4,"crescendohawk24  (4641)","Cool little feature and it the lights, turn green when it acquires a note, and be either red or blue with no note",,1711140534933
+149,26,2583,blue,false,false,false,"[sm]","[ss]",0,false,30000,28800,0,0,0,0,3,2,"crescendohawk24 (4641)","they intake by some dropping a note into the intake from the source zone",,1711140515478
+150,26,4639,blue,false,true,false,"[]","[ss, ss, ss, ss, ss]",1,false,0,0,0,3,0,2,4,3,"crescendohawk24 (4641)","",,1711140497848
+151,26,7091,blue,false,false,false,"[]","[]",0,true,0,140050,0,0,0,0,0,0,"crescendohawk24 (4641)","It was basically there for support",,1711140552348
+152,27,5417,red,false,false,false,"[sm]","[ss, ss, as]",0,true,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1711141139501
+153,27,6171,red,true,false,false,"[]","[as, as]",0,false,0,0,0,1,0,1,0,1,"crescendohawk24  (4641)","Extremely shaky when driving, I constantly feared it would fall\n\nStopped moving during the match, either by choice because the bumpers fell of or because of technical issues",,1711141177043
+154,27,8874,red,true,true,false,"[ss, ss]","[ss, ss, sm, ss, ss]",0,false,0,0,0,3,2,3,4,3,"crescendohawk24 (4641)","",,1711141122404
+155,27,2714,blue,true,true,false,"[ss, ss]","[ss, am, as, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,3,0,3,4,4,"crescendohawk24 (4641)","",,1711141159792
+156,27,3282,blue,false,true,false,"[]","[ss, ss]",1,false,0,0,0,2,0,3,4,3,"crescendohawk24 (4641)","",,1711141147138
+157,27,4717,blue,false,true,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Was not on the field",,1711141019093
+158,28,6357,red,true,true,true,"[ss, sm]","[as, ss, ss, ss, ss, ss, sm, ss, ss, ss, ss]",0,false,0,0,0,3,0,3,2,3,"crescendohawk24  (4641)","",,1711141536877
+159,28,7119,red,false,false,false,"[sm]","[sm, sm, sm, sm, ss, sm]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1711141530604
+160,28,8598,red,false,false,false,"[sm]","[sm, sm, ss, sm]",2,false,35700,0,0,3,2,2,1,3,"crescendohawk24 (4641)","",,1711141519119
+161,28,6526,blue,false,true,false,"[ss]","[ss, ss, ss, sm, ss]",0,false,0,0,0,2,0,2,4,3,"crescendohawk24 (4641)","Driver didn’t seem to be the best at picking up or shooting hoops.",,1711141547477
+162,28,7321,blue,false,false,false,"[]","[tm, tm, tm, tm]",0,false,0,9550,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711141520354
+163,28,8749,blue,false,true,false,"[ss]","[ss, ss, ss, ss, ss, sm, ss, as]",1,false,0,0,0,2,0,2,2,2,"crescendohawk24 (4641)","",,1711141520953
+164,29,5212,red,false,false,false,"[ss]","[sm, sm]",1,false,0,0,1000,1,3,2,2,1,"cresendohawk24 (4641)","",,1711141963945
+165,29,6672,red,true,true,false,"[sm, sm]","[as, as, ss, sa, as, ss, ss]",2,false,0,0,0,3,2,2,4,3,"crescendohawk24 (4641)","",,1711141960657
+166,29,7506,red,false,false,false,"[ss]","[ss, ss, ss, ss]",1,false,0,0,0,2,0,1,2,2,"crescendohawk24  (4641)","Slow bot",,1711142022024
+167,29,8858,blue,true,true,false,"[sm, ss]","[]",0,false,0,0,0,3,0,2,4,4,"crescendohawk24 (4641)","REALLY good autonomous; and almost had a center line pickup. Periodically stopped working during tele-op.",,1711141951507
+168,30,8625,red,false,false,false,"[]","[sm, sm]",1,false,0,0,1000,1,2,1,2,1,"cresendohawk24 (4641)","Started playing defense after missing its shots",,1711142431070
+169,30,8816,red,true,false,false,"[]","[sm, sm, sm, ss]",0,false,0,0,0,2,0,1,2,2,"crescendohawk24  (4641)","",,1711142486837
+170,30,9506,red,false,false,false,"[]","[]",1,false,0,39350,28100,1,2,2,0,0,"crescendohawk24 (4641)","",,1711142414718
+171,30,8732,blue,true,false,false,"[]","[ss, ss, ss, ss, ss, ss]",1,false,0,0,0,2,0,3,4,2,"crescendohawk24 (4641)","",,1711142407710
+172,30,8769,blue,false,true,false,"[ss]","[sm, sm]",1,false,0,0,0,1,0,2,4,3,"crescendohawk24 (4641)","Robot stopped moving at one point during tele-op. Driver also didn’t seem very good at shooting.",,1711142439473
+173,31,148,red,true,true,false,"[ss, ss, ss, ss]","[]",2,false,12400,0,52800,2,3,3,2,4,"crescendohawk24 (4641)","",,1711142953512
+174,31,4364,red,true,false,false,"[]","[as, as]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Takes a long time for the bot to shoot and motors are messy",,1711143049647
+175,31,4639,red,false,false,false,"[ss]","[ss, ss]",2,false,0,0,0,2,0,2,2,2,"crescendohawk24  (4641)","",,1711142975888
+176,31,7091,blue,true,false,false,"[]","[]",1,false,0,0,0,2,4,2,3,0,"crescendohawk24 (4641)","Defense bot, with a single hook made for on-stage.",,1711142932297
+177,31,8019,blue,true,true,false,"[ss, ss]","[ss, ss]",1,false,0,0,16800,2,1,2,3,1,"crescendohawk24 (4641)","",,1711142937435
+178,32,2583,red,false,false,false,"[sm]","[as, as, as]",1,false,0,0,0,2,0,3,3,3,"crescendohawk24  (4641)","",,1711143569766
+179,32,8874,red,true,true,false,"[ss, ss]","[ss, sa, ss, ss, ss]",1,false,0,0,0,3,2,2,3,3,"crescendohawk24 (4641)","",,1711143371381
+180,32,9140,red,false,false,false,"[]","[as, as, am, ss, ss, ss, ss, ss, ss]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1711143367182
+181,32,4597,blue,true,false,false,"[]","[sm, sm]",2,false,11050,0,0,0,0,0,1,1,"crescendohawk24 (4641)","bad shooter",,1711143377982
+182,32,6171,blue,false,true,false,"[]","[]",2,false,0,0,0,0,0,3,3,0,"crescendohawk24 (4641)","Driver didn’t really try to score anything, and was on stage for most of the end of the round.",,1711143369978
+183,33,3282,red,false,false,false,"[]","[]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","Defense Bot",,1711143865174
+184,33,4641,red,true,true,false,"[ss, ss, ss]","[ss, ss, ss, ss, ss, sm, sm, sm, sm]",1,false,0,0,0,3,2,2,2,4,"crescendohawk24 (4641)","",,1711143865190
+185,33,9418,red,true,false,false,"[ss]","[sm, sm, ss, ss, ss, ss, sm, sm]",1,false,0,0,0,3,2,3,2,4,"cresendohawk24 (4641)","",,1711143885121
+186,33,6526,blue,false,false,false,"[sm]","[sm, sm]",0,false,0,19950,0,0,0,0,2,0,"crescendohawk24 (4641)","",,1711143912565
+187,33,8598,blue,false,false,false,"[]","[]",0,false,0,162100,0,0,0,0,0,0,"crescendohawk24 (4641)","I think the robot disconnected ",,1711143913126
+188,33,9034,blue,false,true,false,"[]","[ss, ss]",2,false,0,0,0,2,0,3,4,3,"crescendohawk24 (4641)","Got stuck after climbing on-stage. 😭",,1711143939655
+189,34,1296,red,true,true,false,"[ss, sm]","[as, ss, ss, ss, sa, sm]",1,false,0,0,0,3,2,2,2,3,"crescendohawk24 (4641)","",,1711144314316
+190,34,5212,red,false,false,false,"[]","[as, as, as, as]",1,true,0,0,0,2,2,1,1,3,"cresendohawk24 (4641)","",,1711144334811
+191,34,6901,red,true,true,false,"[ss]","[ss, ss, ss, sm, sm]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711144312958
+192,34,4332,blue,false,false,false,"[]","[]",1,false,0,0,0,3,4,3,4,0,"crescendohawk24 (4641)","Defense bot. ",,1711144222130
+193,34,5417,blue,true,true,false,"[ss, ss]","[as, as, as, ss, ss, ss, ss, ss]",0,false,0,5350,0,3,0,3,3,3,"crescendohawk24 (4641)","",,1711144316884
+194,35,4717,red,false,false,false,"[]","[ss, ss, ss, ss, sm]",1,true,0,0,0,3,2,1,2,4,"cresendohawk24 (4641)","",,1711144778770
+195,35,5788,red,true,true,false,"[sm]","[ss, ss, ss, ss, ss, sm]",1,false,0,0,0,3,2,2,3,2,"crescendohawk24 (4641)","",,1711144767856
+196,35,7119,red,false,true,false,"[ss]","[ss, ss, ss]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711144779407
+197,35,3676,blue,true,true,true,"[sm, ss]","[sm, sm, sm, as]",1,false,0,0,0,2,0,2,3,2,"crescendohawk24 (4641)","auto code is wonky/ it ran into the source zone and did a 360 at the end",,1711144784115
+198,35,7121,blue,false,true,false,"[ss]","[ss, ss]",1,false,0,0,0,1,0,3,3,3,"crescendohawk24 (4641)","Driver didn’t seem confident taking shots, and made many adjustments before shooting.",,1711144819492
+199,36,2714,red,true,true,false,"[ss, ss, ss]","[sa, ss, sa, sm]",2,false,0,0,0,3,3,2,4,3,"crescendohawk24 (4641)","",,1711145234283
+200,36,6672,red,false,false,false,"[ss, ss, ss]","[as, as, ss, ss, as, as, am, ss, ss, sm, sm]",2,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711145228553
+201,36,6357,blue,true,true,false,"[ss]","[ss, ss, ss, ss]",1,false,0,0,0,3,0,4,4,4,"crescendohawk24 (4641)","Super team.",,1711145280298
+202,36,7091,blue,true,false,false,"[]","[]",0,false,36150,5000,30700,1,1,0,2,0,"crescendohawk24 (4641)","gets easily pushed away by other bots when it tries to block",,1711145247884
+203,37,2583,red,false,false,false,"[]","[]",2,false,11000,23250,1650,3,3,2,2,2,"crescendohawk24 (4641)","",,1711145639630
+204,37,8769,red,true,true,false,"[]","[sm, sm, as, sm]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","Worked as a support bot to bring notes \n\nParked at least, couldn't discern whether it was staged",,1711145679325
+205,37,4597,blue,true,true,false,"[ss]","[ss]",2,false,0,0,0,1,0,3,3,2,"crescendohawk24 (4641)","Driver didn’t seem to pick up or shoot anything in tele-op.",,1711145697866
+206,37,5894,blue,false,true,false,"[sm]","[ss, sm, ss, sm, ss, sm, ss, ss, ss]",2,false,0,0,0,2,0,2,3,3,"crescendohawk24 (4641)","",,1711145638622
+207,38,4639,red,true,false,false,"[sm]","[ss, ss, ss, sm, sm]",1,true,0,0,0,2,1,2,3,3,"cresendohawk24 (4641)","",,1711146054958
+208,38,5431,red,true,true,false,"[]","[ss]",1,false,0,0,0,4,2,2,4,3,"crescendohawk24 (4641)","Passing focused bot",,1711146045587
+209,38,8019,red,false,true,false,"[sm]","[ss, ss, ss, ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711146027154
+210,38,3282,blue,false,false,false,"[]","[]",1,false,12000,51650,14250,0,0,0,0,0,"crescendohawk24 (4641)","",,1711146013687
+211,38,9034,blue,true,true,false,"[ss]","[ss, ss, ss, ss, ss, ss, ss]",1,false,0,0,0,4,0,4,3,4,"crescendohawk24 (4641)","Super team.",,1711146029454
+212,39,148,red,true,true,true,"[ss, sm, sm]","[ss, ss, ss, sa, ss, ss, ss, ts]",2,false,0,0,0,4,2,2,4,4,"crescendohawk24 (4641)","",,1711146478188
+213,39,5212,red,false,false,false,"[]","[sm, ss]",1,true,0,0,1000,0,0,0,0,0,"cresendohawk24 (4641)","",,1711146503181
+214,39,5417,red,false,true,false,"[]","[as, as, am, ss, ss, as, as, as, as]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711146483981
+215,39,4364,blue,false,false,false,"[]","[]",0,false,0,0,30000,0,0,0,0,0,"crescendohawk24 (4641)","They are really good (defensively)",,1711146471739
+216,39,4610,blue,true,true,false,"[]","[ss, ss]",0,false,0,0,0,1,2,3,3,2,"crescendohawk24 (4641)","Robot had intake and shooter, but driver decided to play defense for most of tele-op.",,1711146505302
+217,39,6526,blue,true,true,false,"[ss]","[ss, sm, ss]",1,false,22000,0,0,0,0,0,0,2,"crescendohawk24 (4641)","",,1711146492092
+218,40,7321,red,true,false,false,"[]","[]",1,false,0,26350,59150,1,3,2,1,0,"crescendohawk24 (4641)","",,1711146903084
+219,40,8816,red,false,false,false,"[]","[ss]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","Very slow when picking up, aiming , and shooting note\n\n",,1711146935203
+220,40,9418,red,true,true,false,"[ss, ss]","[ss, ss, ss]",2,false,0,0,0,3,2,4,3,4,"cresendohawk24 (4641)","",,1711146907677
+221,40,3676,blue,true,true,false,"[ss]","[as, as, as, as, as]",1,false,0,0,0,3,0,4,4,4,"crescendohawk24 (4641)","Super team.",,1711146904654
+222,40,5788,blue,true,true,false,"[ss]","[ss, ss, ss, ss, ss, ss, ss, ss]",0,false,0,0,0,2,0,2,4,2,"crescendohawk24 (4641)","",,1711146895254
+223,41,1296,red,true,true,false,"[ss, ss]","[ss, ss, ss, ss]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711147586492
+224,41,8749,red,false,false,false,"[]","[as, as, as, as]",1,false,0,0,0,2,1,1,2,3,"cresendohawk24 (4641)","",,1711147610064
+225,41,8858,red,true,true,false,"[sm, ss]","[]",1,false,28450,56750,0,1,1,1,0,0,"crescendohawk24 (4641)","",,1711147584435
+226,41,7121,blue,true,true,false,"[sm, sm, sm]","[sm, sm, ss, ss, ss, ss, ss, as, as]",2,false,0,0,0,2,0,2,3,3,"crescendohawk24 (4641)","",,1711147579960
+227,41,9140,blue,true,true,false,"[]","[as, as]",2,false,0,0,0,2,0,4,3,4,"crescendohawk24 (4641)","",,1711147585493
+228,42,6672,red,true,false,true,"[ss, ss, ss]","[as, as, ss, sm, as, ss, ss]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Fast with a auto to the center and can do both amp and speaker easily ",,1711148095593
+229,42,6901,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Not there",,1711148047443
+230,42,9506,red,false,false,false,"[]","[ss, sa]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711148068300
+231,42,2714,blue,true,true,false,"[ss, ss, ss]","[as]",2,false,0,19000,13450,2,1,3,4,3,"crescendohawk24 (4641)","They can climb extremely quickly",,1711148070799
+232,42,6357,blue,true,true,false,"[]","[ss, ss]",1,false,0,0,0,2,0,2,3,3,"crescendohawk24 (4641)","Driver seemed to be shooting cones in blue side, to make it easier to score/pickup.",,1711148078155
+233,43,4641,red,true,true,false,"[sm, sm]","[ss, ss, ss, as]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Seems to have misplaced coordinate for auto",,1711148551434
+234,43,8598,red,false,true,false,"[ss]","[as, as, ss, ss, ss]",0,false,0,0,0,3,2,3,3,2,"crescendohawk24 (4641)","",,1711148499404
+235,43,9156,red,false,false,false,"[sm]","[as, as, as, sm, ss]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711148691904
+236,43,4717,blue,false,true,false,"[]","[ss, am]",0,false,0,15000,56050,2,2,2,4,2,"crescendohawk24 (4641)","no auto code",,1711148520886
+237,43,8732,blue,true,true,false,"[sm, sm]","[ss, sm, ss, ss, ss, ss]",1,false,0,0,0,4,0,4,3,4,"crescendohawk24 (4641)","Super team. Fires two quick shots in auto, but missed both.",,1711148523953
+238,44,4639,red,true,true,false,"[sm]","[ss, ss, ss, ss, ss, ss, ss, ss, sa]",1,false,0,0,0,3,2,3,4,3,"crescendohawk24 (4641)","",,1711149055792
+239,44,5212,red,true,true,false,"[sm]","[as, as, sm, as, as]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711149058294
+240,44,6526,red,false,false,false,"[ss]","[sm, sm, as]",0,true,0,0,1000,0,0,0,0,0,"cresendohawk24 (4641)","",,1711149075037
+241,44,4364,blue,false,true,false,"[]","[as]",0,false,0,0,0,1,2,2,3,2,"crescendohawk24 (4641)","Inefficient shooting/intake system. Driver struggled to score points, and switched to defense near the start of tele-op.",,1711149036013
+242,44,9034,blue,true,true,false,"[ss]","[ss, ss, sm, ss, sa, sm, ss, ss]",2,false,0,0,0,3,0,3,4,3,"crescendohawk24 (4641)","",,1711149064174
+243,45,3282,red,true,false,false,"[]","[]",1,false,0,0,2000,0,0,0,0,0,"cresendohawk24 (4641)","Playing defensive ",,1711149533375
+244,45,5417,red,true,true,false,"[ss, sm]","[as, as, sm, ss, ss, as, as, am]",1,false,0,0,0,3,0,2,3,3,"crescendohawk24 (4641)","",,1711149597879
+245,45,7091,red,true,false,false,"[]","[]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711149549511
+246,45,4597,blue,false,false,false,"[]","[am, ss, ss]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711149530446
+247,45,5788,blue,true,true,false,"[ss]","[ss, ss, ss, sm, ss, ss, ss, ss, ss, sm, ss]",1,false,0,0,0,4,0,3,4,3,"crescendohawk24 (4641)","Super team.",,1711149537385
+248,45,7321,blue,true,false,false,"[sm]","[]",0,false,0,75050,0,0,0,0,0,0,"crescendohawk24 (4641)","stayed in other teams stage the for half the match",,1711149547613
+249,46,6171,red,true,false,false,"[]","[as, as]",1,false,0,0,2000,1,2,0,2,1,"cresendohawk24 (4641)","",,1711150112218
+250,46,8816,red,true,false,false,"[]","[]",1,false,0,0,0,2,0,2,2,3,"crescendohawk24 (4641)","Shot notes across field to teammates ",,1711150096332
+251,46,8858,red,true,true,false,"[ss]","[ss, ss, sm, ss, sm, ss]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","",,1711150073156
+252,46,1296,blue,true,true,false,"[ss, ss, ss]","[as, as, as, sm, ss, sa, ss]",2,false,0,0,0,3,0,4,3,4,"crescendohawk24 (4641)","Super team.",,1711150059213
+253,46,8769,blue,true,true,false,"[]","[]",2,false,0,0,0,2,0,2,3,2,"crescendohawk24 (4641)","passed notes",,1711150077231
+254,47,148,red,true,false,true,"[sm, sm, ss]","[ss, ss, ss, ss]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1711150562115
+255,47,6901,red,false,false,false,"[ss]","[]",1,false,0,90250,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711150536108
+256,47,7121,red,false,true,false,"[]","[ss, as, ss, as, sm, ss]",1,false,0,0,0,4,3,4,4,4,"crescendohawks24 (4641)","Unknown",,1711150558997
+257,47,7506,blue,false,true,false,"[]","[as, as, as, as]",1,false,0,0,0,3,0,4,3,3,"crescendohawk24 (4641)","Very good at scoring amps.",,1711150592002
+258,47,8874,blue,true,true,false,"[ss, ss]","[as, ss, ss, ss, ss]",2,false,0,0,0,3,0,3,4,4,"crescendohawk24 (4641)","",,1711150538608
+259,48,4332,red,false,true,false,"[]","[sm, sm, sm]",1,false,19300,0,0,0,4,2,0,2,"crescendohawk24 (4641)","",,1711151067201
+260,48,5894,red,true,false,false,"[ss]","[ss, ss, ss, ss, ss]",1,false,0,0,0,1,1,2,1,3,"cresendohawk24 (4641)","",,1711151089528
+261,48,8625,red,false,false,false,"[]","[sm, sm, sm, sm, sm]",0,false,0,0,0,2,1,2,2,2,"crescendohawks24 (4641)","The intake could intake BUT they had to drive really slowly to get it aligned ",,1711151110214
+262,48,4610,blue,false,true,false,"[]","[ss, ss]",1,false,0,0,0,2,0,3,3,4,"crescendohawk24 (4641)","Driver seemed a little lost for a few moments.",,1711151123568
+263,48,4717,blue,false,false,false,"[]","[as, ss, as]",1,false,0,0,7400,0,0,1,3,1,"crescendohawk24 (4641)","",,1711151072698
+264,49,3676,red,true,true,false,"[sm]","[sa, as, ss, ss]",0,false,0,0,0,2,2,3,2,3,"crescendohawk24 (4641)","",,1711151530782
+265,49,8732,red,false,true,false,"[]","[ss, ss, ss]",1,false,0,0,0,2,1,3,2,2,"crescendohawks24 (4641)","Slow with pick up and alignment needs to be specific ",,1711151593664
+266,49,8749,red,false,false,false,"[]","[as, as, ss, ss, ss]",1,true,0,0,0,2,2,1,2,3,"cresendohawk24 (4641)","",,1711151556433
+267,49,4641,blue,true,true,false,"[ss, ss, ss]","[ss, ss, ss, ss, sm, ss, sa, ss]",1,false,0,0,0,3,0,3,4,3,"crescendohawk24 (4641)","Super team…? �🤔",,1711151551366
+268,49,5431,blue,false,true,false,"[ss]","[ss]",1,false,0,0,5500,3,0,2,4,3,"crescendohawk24 (4641)","They were passing to us; driver sometimes had hard time picking up note",,1711151560289
+269,50,2714,red,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawks24 (4641)","They never showed up…",,1711151915289
+270,50,9156,red,true,true,false,"[ss, sm]","[as, ss, ss, ss, ss]",1,false,0,0,0,3,2,3,3,3,"crescendohawk24 (4641)","",,1711152029873
+271,50,8019,blue,false,false,false,"[]","[ss, ss, ss, ss, ss, ss]",0,false,0,0,0,3,0,0,2,2,"crescendohawk24 (4641)","They have the path for a 4note auto but their intake cant pick it up",,1711152104262
+272,50,9140,blue,false,false,false,"[ss]","[sm, sm, ss, ss, ss, ss, ss]",0,false,0,0,0,3,0,2,3,3,"crescendohawk24 (4641)","If they get hit while note is in their intake, it pops out",,1711152235849
+273,50,9506,blue,false,true,false,"[]","[ss, ss, ss, ss]",1,false,0,0,0,2,0,2,3,3,"crescendohawk24 (4641)","Robot stopped for awhile during tele-op.",,1711152052244
+274,51,2583,red,false,false,false,"[ss]","[as]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Very slow moving bot, seems to be the cause of motor issues",,1711152421928
+275,51,6526,red,true,true,false,"[sm]","[ss, ss, ss, ss]",0,false,0,0,0,2,0,1,1,2,"crescendohawk24  (4641)","",,1711152429103
+276,51,8827,red,true,true,false,"[]","[ss, ss, ss, ss, sm]",0,false,0,0,0,2,2,2,3,2,"crescendohawk24 (4641)","",,1711152410917
+277,51,7091,blue,true,false,false,"[]","[]",1,false,0,0,0,3,4,2,4,0,"crescendohawk24 (4641)","Defense bot.",,1711152409017
+278,51,8858,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss]",2,false,0,0,0,2,0,2,4,1,"crescendohawk24 (4641)","potential for center line pickup",,1711152404193
+279,52,6357,red,true,true,false,"[]","[as, sm, ss, ss, sm, ss, ss, sm]",2,false,0,0,0,2,2,3,2,3,"crescendohawk24 (4641)","",,1711152863597
+280,52,6901,red,false,true,false,"[]","[ss, sm, ss]",0,false,0,0,0,2,0,1,2,1,"crescendohawk24  (4641)","",,1711152918154
+281,52,7321,red,false,false,false,"[sm]","[ss]",1,false,0,0,1000,0,0,0,0,0,"cresendohawk24 (4641)","Bumpy movement",,1711152883889
+282,52,1296,blue,true,true,false,"[]","[ss, ss, ss, as, as, ss, sa, sa, sm, ss, ss]",1,false,0,0,0,4,0,4,3,4,"crescendohawk24 (4641)","Super team.",,1711152867687
+283,52,148,blue,false,true,true,"[ss, ss, sm, sm]","[as, ss, sm, ss, as, ss, ts]",2,false,0,0,0,4,4,4,4,4,"crescendohawks24 (4641)","",,1711152861886
+284,52,3282,blue,false,false,false,"[]","[]",1,false,11000,16950,64900,1,1,1,0,0,"crescendohawk24 (4641)","No auto",,1711152858877
+285,53,4332,red,false,false,false,"[]","[sm]",1,false,0,0,0,2,2,1,2,0,"crescendohawk24  (4641)","",,1711153351450
+286,53,4332,red,false,false,false,"[]","[ss, ss, ss, ss, ss, ss]",1,false,0,0,0,2,0,1,3,3,"crescendohawk24  (4641)","Lowering intake is very slow\n\nTakes several seconds before they could shoot a note",,1711202000602
+287,53,6171,red,true,false,false,"[]","[]",1,false,14100,0,0,1,0,1,1,0,"crescendohawk24 (4641)","",,1711153349380
+288,53,6171,red,true,false,false,"[]","[]",0,false,0,48050,0,1,1,1,1,1,"crescendohawk24 (4641)","",,1711201947174
+289,53,7121,red,true,true,false,"[sm, sm, sm]","[as, as, ss]",2,true,0,0,0,3,2,3,2,4,"cresendohawk24 (4641)","",,1711153367153
+290,53,7121,red,true,false,false,"[ss]","[as, as, as, sm, sm, as, ss, sm, as]",0,false,0,0,0,2,1,2,3,2,"crescendohawk24 (4641)","The main problem with the bot is that it couldn’t make consistent shots into the speaker. Other things didn’t seem like a problem for it just inconsistent ",,1711202006131
+291,53,4597,blue,false,true,false,"[]","[as, sm, ss, sm]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Driver took awhile to pick up hoops and also missed as many shots as they made.",,1711153403984
+292,53,8598,blue,false,false,false,"[]","[sm, sm, sm, ss, ss, sm, sm, ss, sm]",2,false,0,0,0,2,0,1,1,1,"crescendohawk24 (4641)","It seems to be flauntiating",,1711153346962
+293,53,8816,blue,false,false,false,"[]","[ss]",1,false,0,0,8900,1,0,2,3,1,"crescendohawk24 (4641)","passed notes",,1711153361457
+294,54,8749,red,true,true,false,"[ss]","[as, ss, ss, sa, sm]",2,false,0,0,0,3,0,3,2,3,"crescendohawk24  (4641)","As long as they keep their shooter down when driving they won't have to worry about tipping",,1711153943032
+295,54,8874,red,true,true,false,"[ss]","[ss, ss, as, as]",0,false,0,1000,4050,2,1,1,2,2,"crescendohawk24 (4641)","",,1711153911836
+296,54,9034,red,true,false,false,"[sm]","[ss, sm, sm]",0,false,0,0,0,2,1,4,1,0,"cresendohawk24 (4641)","",,1711153932901
+297,54,4610,blue,false,false,false,"[sm]","[as, as, as]",1,false,0,0,0,2,0,2,2,0,"crescendohawk24 (4641)","Tank drive and has to get notes dropped on it from source zone",,1711153916469
+298,54,4639,blue,true,true,false,"[ss]","[ss, ss, ss]",2,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711153902559
+299,54,5894,blue,false,false,false,"[]","[ss, ss, ss, ss, ss]",2,false,0,0,0,2,0,2,2,2,"crescendohawk24 (4641)","",,1711153892707
+300,55,4717,red,false,false,false,"[]","[ss]",1,false,0,0,0,2,1,2,2,0,"crescendohawk24  (4641)","Got note stuck in bot",,1711154362814
+301,55,5212,red,true,false,false,"[]","[as, as, sm, sm, sm, as]",1,false,0,0,0,2,2,1,2,3,"crescendohawk24 (4641)","",,1711154332205
+302,55,9156,red,true,false,false,"[ss]","[ss, ss, ss]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1711154358923
+303,55,6672,blue,true,true,false,"[ss, ss]","[as, as, sa, sa, as, as, sa, ss, ss]",2,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Super team.",,1711154342153
+304,55,8625,blue,false,false,false,"[ss]","[ss, sm, sm, sm, ss]",1,false,0,0,0,2,0,3,4,3,"crescendohawk24 (4641)","",,1711154339888
+305,56,3676,red,true,true,false,"[ss, ss]","[as, as, as, as, sm, as]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711154868328
+306,56,5431,red,true,false,false,"[ss]","[ss, ss, ss, ss]",1,false,0,0,0,3,2,3,2,3,"cresendohawk24 (4641)","",,1711154865818
+307,56,7506,red,true,true,false,"[sm]","[as, ss, as]",1,false,0,0,0,2,0,2,1,2,"crescendohawk24  (4641)","",,1711154857133
+308,56,2714,blue,false,true,false,"[]","[ss, ss, ss, ss, ss, ss, sm]",2,false,0,0,0,3,0,3,3,3,"crescendohawk24 (4641)","",,1711154864694
+309,56,4641,blue,true,true,false,"[ss, ss, ss, ss]","[ss, ss, sm, ss, ss, ss]",1,false,0,0,0,3,0,3,2,3,"crescendohawk24 (4641)","Just need to go faster speed, but we got this. 😎",,1711154916730
+310,56,5417,blue,false,false,false,"[sm]","[as, am, sm, ss, as, ss, as, as, as]",0,false,0,0,0,2,0,3,4,3,"crescendohawk24 (4641)","",,1711154853976
+311,57,4364,red,true,false,false,"[]","[]",0,false,0,0,0,1,2,2,2,0,"crescendohawk24  (4641)","Note got stuck in bot",,1711155295607
+312,57,7119,red,false,false,false,"[]","[sm, ss, ss, ss]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1711155420317
+313,58,1296,red,true,false,false,"[ss]","[ss, ss, ss, sa]",2,false,0,0,0,2,2,2,2,3,"cresendohawk24 (4641)","",,1711155790387
+314,58,7121,red,true,true,false,"[ss, sm, sm]","[as, ss, as, as, as, as]",2,false,0,0,0,3,0,3,3,3,"crescendohawk24  (4641)","",,1711155760796
+315,58,8019,red,false,true,false,"[ss]","[ss, ss, ss, ss, ss, sa]",2,false,16750,0,0,2,2,3,3,2,"crescendohawk24 (4641)","",,1711155786535
+316,58,8598,blue,false,false,false,"[ss]","[sm, sm, sm]",2,false,0,16300,39300,2,0,2,3,3,"crescendohawk24 (4641)","",,1711155783780
+317,58,9506,blue,true,true,false,"[ss, ss]","[ss, ss]",1,false,0,0,0,2,0,2,3,1,"crescendohawk24 (4641)","Hoops kept sliding out of robot intake, which made scoring harder.",,1711155785675
+318,59,3282,blue,false,false,false,"[]","[]",0,false,0,0,0,2,2,2,3,0,"crescendohawk24 (4641)","Defense bot. Not able to go on-stage or harmony.",,1711156236003
+319,59,4639,blue,true,true,false,"[ss, sm]","[ss, ss, ss, sm, ss, ss, sm, ss, ss, ss]",1,false,0,0,0,3,0,3,4,4,"crescendohawk24 (4641)","",,1711156223618
+320,63,7321,red,false,false,false,"[ss]","[]",1,false,0,0,0,2,3,2,2,0,"crescendohawk24  (4641)","",,1711202363785
+321,63,8019,red,false,false,false,"[ss]","[as, as, ss, ss, ss, ss, ss, ss, ss, ss]",0,false,0,0,0,3,2,2,3,3,"crescendohawk24 (4641)","Very consistent shooter with little bad to be said. It is a bit on the slower side but it was able to shoot multiple times even in the last seconds.",,1711202421914
+322,63,8732,red,true,true,false,"[ss, ss]","[ss, ss]",1,false,0,8700,3100,3,3,2,2,3,"crescendohawk24 (4641)","",,1711202358498
+323,63,3676,blue,true,true,false,"[]","[as, as, sa, sa, as, as, sa, as]",2,false,0,0,0,3,0,3,4,4,"crescendohawk24 (4641)","Super team.",,1711202390774
+324,63,8874,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Did not do much as they did not have a shooter and intake system.",,1711202365972
+325,63,9506,blue,false,true,false,"[sm]","[sm, ss, ss]",1,false,0,0,0,1,0,1,2,1,"crescendohawk24 (4641)","They take too long to shoot and their intake isnt that good",,1711202364918
+326,64,4641,red,true,true,false,"[ss, ss, ss]","[as, am, am, ss, ss, ss, sm, sm, ss, ss, ss, am]",1,false,0,0,0,3,0,2,3,4,"crescendohawk24  (4641)","",,1711203259125
+327,64,5894,red,true,true,false,"[ss]","[sm, sm, sm, ss]",1,false,0,0,0,2,2,2,2,2,"crescendohawk24 (4641)","",,1711203223085
+328,64,8827,red,true,false,false,"[]","[ss, ss, ss, ss, ss, ss]",0,false,0,0,0,2,2,2,3,4,"crescendohawk24 (4641)","The bot seemed slower compared to the rest on the field. Although they were a very consistent shooter during the match and even acted as a support for the beginning ",,1711203264510
+329,64,5417,blue,true,true,false,"[sm]","[as, as, ss, as, sa, sm, ss, ss]",2,false,0,0,0,2,0,2,3,2,"crescendohawk24 (4641)","Intake and shooting system not the most optimal, but driver still managed to score many points.",,1711203228272
+330,64,7119,blue,false,false,false,"[]","[as, as, as, ss, sm, sm]",0,false,0,0,0,2,0,1,2,1,"crescendohawk24 (4641)","",,1711203205642
+331,64,8625,blue,false,false,false,"[sm]","[sm, ss, ss]",0,false,0,0,0,1,0,2,4,4,"crescendohawk24 (4641)","Bad driver but good intake, shooting isnt great",,1711203211878
+332,65,1296,red,true,false,false,"[ss, ss]","[as, ss, as, ss, ss, ss, ss]",1,false,0,0,0,3,1,3,2,4,"crescendohawk24 (4641)","When they shot they hit all their shots. As well, when grabbing notes they did it with easily. Only thing is it seems like it can’t go too fast cause of the shooter on top",,1711203670819
+333,65,4597,red,true,false,false,"[]","[sm]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24  (4641)","Robot broke down couldn't determine skill ",,1711203611334
+334,65,6357,red,true,true,true,"[ss, ss, sm]","[ss, ss]",1,false,0,0,0,3,2,2,3,2,"crescendohawk24 (4641)","",,1711203602247
+335,65,4364,blue,true,false,false,"[]","[]",1,false,0,16300,42050,1,2,0,4,0,"crescendohawk24 (4641)","",,1711203595023
+336,65,4717,blue,false,true,false,"[]","[ss, ss, ss, ss, sm]",0,false,0,0,0,2,0,0,1,1,"crescendohawk24 (4641)","",,1711203621943
+337,65,7506,blue,true,true,false,"[]","[ss, sm, ss]",1,false,0,0,0,1,0,2,3,1,"crescendohawk24 (4641)","Intake and shooting system wasn’t the best, and driver seemed lost for half of the round.",,1711203653482
+338,66,2583,red,false,true,false,"[]","[as, as, as, as]",1,false,0,0,0,2,3,2,1,1,"crescendohawk24 (4641)","",,1711204036588
+339,66,4332,red,false,false,false,"[]","[ss, ss]",1,false,0,52450,0,2,1,2,1,2,"crescendohawk24 (4641)","The beginning seemed promising with it making shots but it got easily bricked by the note not being precise. It was lackluster overall",,1711204076191
+340,66,6672,red,true,true,true,"[sm, ss, ss]","[as, am, as, sa, as, sa, sa, as, sa, sa, ss, ss]",2,false,0,0,0,4,0,3,3,4,"crescendohawk24  (4641)","Very versatile bot",,1711204002112
+341,66,5431,blue,true,true,true,"[ss]","[sm, ss, ss, sa, sm, sa, ss]",0,false,0,0,0,2,0,3,4,4,"crescendohawk24 (4641)","Potential super team if driver can shoot more consistently. Really good autonomous.",,1711204015026
+342,66,7121,blue,false,false,false,"[]","[am, am, as, as, as, sm]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711203977159
+343,66,8816,blue,true,false,false,"[]","[sm]",1,false,0,0,0,1,0,2,2,0,"crescendohawk24 (4641)","Takes too long to get notes and driver is bad",,1711204002088
+344,67,2714,red,true,true,false,"[ss, ss]","[ss, ss]",2,false,0,0,0,3,2,3,2,3,"crescendohawk24 (4641)","They are very quick getting into stage, in 2 around seconds it could get on stage. The shots were consistent throughout ",,1711204484233
+345,67,4610,red,false,true,false,"[ss]","[as, as]",1,false,0,0,0,1,2,1,2,2,"crescendohawk24 (4641)","",,1711204440401
+346,67,5788,red,true,true,false,"[sm]","[ss, ss, ss, ss, ss, ss, sm, ss, ss]",0,false,0,0,0,3,0,3,3,3,"crescendohawk24  (4641)","Occasionally when picking up a note the note would slip out of the shooter so they'd have to reverse the intake and pick the note up again, happened a couple of times\n\nNeed some kind of barrier to help keep the note inside when it's on its way to the shooter",,1711204502895
+347,67,5212,blue,true,true,false,"[ss, ss]","[as, as, sm, ss, sa, as, as]",0,false,0,0,0,1,0,2,3,4,"crescendohawk24 (4641)","Driver was good at shooting but not the best navigator.",,1711204471514
+348,67,7091,blue,false,false,false,"[]","[]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","It was just there wasnt really useful\n",,1711204334426
+349,67,8598,blue,false,true,false,"[]","[ss, ss, sm, ss, sm, ss]",1,false,0,0,0,2,0,3,3,3,"crescendohawk24 (4641)","",,1711204430155
+350,68,148,red,true,true,true,"[ss, ss, ss]","[as, as, ss, sm, ss, as, ss, sm, ts]",2,false,12700,0,0,3,3,4,4,3,"crescendohawk24 (4641)","The bot played support for a good chunk of the match and did it well with getting the notes to the other side. As usual they are consistent with their shots but did miss more this time around",,1711205005249
+351,68,8874,red,false,false,false,"[ss]","[ss, as, as, ss]",2,false,0,0,0,2,0,3,3,2,"crescendohawk24  (4641)","Looked a little lost when driving",,1711204938335
+352,68,9156,red,false,true,false,"[]","[am, ss, ss, sm, sm, as, as]",1,false,0,1100,0,1,2,2,3,2,"crescendohawk24 (4641)","",,1711204936313
+353,68,4639,blue,false,true,false,"[]","[tm, tm, tm, tm, tm, tm, tm, tm, tm, tm, tm, tm, tm]",3,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","I dont know why they were focused on the trap",,1711204942582
+354,68,6901,blue,false,false,false,"[ss]","[as, as, as, as]",1,false,0,0,0,3,0,2,3,2,"crescendohawk24 (4641)","",,1711204946053
+355,68,9418,blue,true,true,false,"[sm, sm, sm, sm]","[ss, ss, ss, ss, ss, ss, ss, ss, ss, ss, ss, sm, sa]",3,false,0,0,0,4,0,3,3,4,"crescendohawk24 (4641)","Super team. Also achieved harmony with 4639. Auto is really good but missed every shot due to being bumped at the start. 😭",,1711204999807
+356,69,6171,red,true,false,false,"[]","[]",1,false,0,24450,0,1,1,2,1,0,"crescendohawk24 (4641)","For the match I couldn’t tell their game plan with it having a note stuck in it during the majority of the match. When they tried to be defense the other bots easily avoided it",,1711205439478
+357,69,8625,red,false,false,false,"[ss]","[sm, sm, sm, sm, as]",1,false,0,0,0,2,2,2,1,2,"crescendohawk24 (4641)","",,1711205384795
+358,69,8732,red,true,true,false,"[ss, ss]","[]",0,false,0,0,0,3,3,3,3,0,"crescendohawk24  (4641)","They couldn't pick up notes, bumpers may be too low\n\nVery good defense, quick reactions\n\nThey could reach center-line with auto but because of inability to pick up notes it messed them up",,1711205463302
+359,69,5417,blue,true,false,false,"[ss]","[as]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711205373761
+360,69,8749,blue,false,true,false,"[]","[as, as, sa]",1,false,0,0,0,2,0,3,3,2,"crescendohawk24 (4641)","Intake and driver weren’t the best. ",,1711205428606
+361,69,9506,blue,true,true,false,"[ss]","[ss, ss]",0,false,0,0,0,1,0,2,3,2,"crescendohawk24 (4641)","",,1711205386174
+362,70,3282,red,false,false,false,"[]","[]",0,false,0,0,89650,1,3,2,2,0,"crescendohawk24 (4641)","",,1711205820781
+363,70,5894,red,true,false,false,"[sm]","[sm, ss, sm, ss, sm, ss, sm, sm]",2,false,0,0,0,2,0,1,2,2,"crescendohawk24  (4641)","",,1711205820802
+364,70,8858,red,true,true,false,"[ss, ss]","[ss, ss, sm, ss, ss, ss, ss]",2,false,0,0,0,2,2,2,1,3,"crescendohawk24 (4641)","The robot was the main shooter of the team and succeeded in its goal. However it also seemed a bit too top heavy",,1711205833116
+365,70,3676,blue,true,true,false,"[]","[sm, as, sm, as, as, as, as]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711205795039
+366,70,4364,blue,true,true,false,"[]","[as]",1,false,0,0,0,1,0,2,3,1,"crescendohawk24 (4641)","Driver didn’t score very many points, and chose to stay parked super early. Intake also isn’t very optimal.",,1711205858564
+367,70,4641,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss, sa, sm, ss, ss]",0,false,0,0,0,4,0,3,4,4,"crescendohawk24 (4641)","",,1711205799032
+368,71,7321,red,false,false,false,"[ss]","[]",2,false,0,0,0,1,0,1,2,0,"crescendohawk24 (4641)","The bot didn’t seem to have a way to change directions around cause it to be near the notes without a good way to get them",,1711206445957
+369,71,7506,red,true,false,false,"[ss]","[as, as, as]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Slow, bulky bot who is fast at doing amp",,1711206427879
+370,71,9140,red,true,true,false,"[ss, ss]","[ss, ss, ss, ss]",0,false,0,32350,0,2,2,3,1,3,"crescendohawk24 (4641)","",,1711206367332
+371,71,6526,blue,false,true,false,"[]","[ss, as, ss]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711206408825
+372,71,7119,blue,false,true,false,"[sm]","[sm, ss, sm, am]",0,false,0,0,0,1,0,1,3,3,"crescendohawk24 (4641)","Really slow robot, and driver wasn’t the most accurate.",,1711206431327
+373,71,8019,blue,true,true,false,"[ss, ss]","[am, ss, ss]",1,false,0,14400,32550,2,0,3,4,1,"crescendohawk24 (4641)","Intake broke mid match",,1711206422627
+374,72,6357,red,true,true,true,"[ss, ss, sm]","[ss, ss, ss, ss, sa, ss, sm, ss]",1,false,0,0,0,2,1,3,4,4,"crescendohawk24 (4641)","A very consistent shooter without any major faults. Now it couldn’t make it to the stage but did score most of the points",,1711206860441
+375,72,6357,red,false,false,false,"[ss]","[ss, ss, ss, ss, ss, sm, sa, ss, ss, sm]",2,true,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Fast bot, good at collecting notes and shooting them",,1711206865860
+376,72,7121,red,true,true,false,"[ss, ss]","[as, sm, ss, ss, ss, as, as, ss, sa]",1,false,0,0,0,3,2,3,3,3,"crescendohawk24 (4641)","",,1711206805212
+377,72,8769,blue,true,true,false,"[sm, sm]","[sm, sm, am]",1,false,0,7600,0,1,0,1,2,1,"crescendohawk24 (4641)","",,1711206794288
+378,72,8827,blue,true,true,false,"[]","[ss, sm, ss, ss, sm, ss]",1,false,0,0,0,3,0,2,3,3,"crescendohawk24 (4641)","",,1711206812490
+379,73,2714,red,true,true,false,"[sm, ss, ss]","[sm, ss, ss, ss, ss, ss, ss, ss]",2,false,4700,0,0,3,2,3,4,3,"crescendohawk24 (4641)","",,1711207302647
+380,73,5212,red,false,false,false,"[ss]","[]",0,false,0,28100,0,0,0,0,0,0,"crescendohawk24 (4641)","I couldn’t tell much since the bot broke down near the beginning of the match",,1711207298382
+381,73,5431,red,true,true,false,"[ss]","[ss]",1,false,0,0,0,3,4,3,3,0,"crescendohawk24  (4641)","Got note stuck in bot, good defense",,1711207307548
+382,73,1296,blue,true,true,false,"[ss, ss]","[ss, ss, ss, ss, ss, ss, ss]",2,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","Super team.",,1711207304955
+383,73,8816,blue,true,false,false,"[]","[]",0,false,0,54500,0,1,0,2,4,1,"crescendohawk24 (4641)","",,1711207293263
+384,74,5417,red,true,true,false,"[ss, sm]","[as, am, sm, as, as, as]",0,false,0,0,0,2,2,1,2,2,"crescendohawk24 (4641)","",,1711207737635
+385,74,5788,red,true,false,false,"[ss]","[ss, sm]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Messed up auto, cannot shoot to speaker from a far, and a note got stuck in its intake",,1711207765665
+386,74,8598,red,false,false,false,"[sm]","[sm]",0,false,0,0,0,2,0,2,1,3,"crescendohawk24 (4641)","It was consistent at the start then it broke down",,1711207759056
+387,74,6672,blue,true,true,true,"[ss, ss, ss]","[as, as, as, as, as, sa, as, as, sm, sa]",1,false,0,0,0,4,0,4,4,3,"crescendohawk24 (4641)","",,1711207734997
+388,74,8749,blue,false,true,false,"[]","[]",0,false,0,0,0,0,0,2,0,0,"crescendohawk24 (4641)","Robot got stuck on other teams side. :(",,1711207753324
+389,75,4364,red,true,true,false,"[ss]","[as, as, as, as]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Tall bot that can’t go under the chain because of it, and is slow getting notes to its shooter",,1711208187139
+390,75,4597,red,true,false,false,"[sm]","[sm]",0,false,0,71350,0,2,1,3,1,2,"crescendohawk24 (4641)","It got bricked for most of the match and didn’t work well as defense",,1711208189903
+391,75,8625,red,false,true,false,"[sm]","[sm, ss, sm, sm, sm, sa, sm, ss, sm]",1,false,0,0,0,1,2,3,1,3,"crescendohawk24 (4641)","",,1711208135320
+392,75,4639,blue,true,true,false,"[sm, sm]","[sm, ss, ss, ss]",2,false,0,0,0,3,0,2,3,3,"crescendohawk24 (4641)","Got on stage very easily. Good auto but missed every shot due to being offset at start.",,1711208158212
+393,75,8858,blue,false,false,false,"[]","[]",0,false,0,135000,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711208114843
+394,76,4332,red,true,true,false,"[]","[sm, sm, sm]",0,false,0,0,0,0,1,0,0,2,"crescendohawk24 (4641)","",,1711208551481
+395,76,4717,red,false,false,false,"[]","[am, as, as, as]",0,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Slow and janky and produce almost no voltage to shoot, also its intake that a bit to grab the note",,1711208628861
+396,76,8019,red,false,false,false,"[ss]","[ss, ss, ss]",1,false,0,8000,3000,3,3,3,1,2,"crescendohawk24 (4641)","They got bricked but then were aggressive with the defense making sure they didn’t leave the red area",,1711208567156
+397,76,2583,blue,false,true,false,"[ss]","[as, as, as]",1,false,0,0,0,2,0,2,4,3,"crescendohawk24 (4641)","Bad game sense",,1711208551856
+398,76,4641,blue,true,true,false,"[ss, sm, ss, ss, ss, ss]","[ss, ss, sm, ss, ss, ss, ss, sm]",0,false,0,0,0,3,0,2,3,3,"crescendohawk24 (4641)","Driver missed in the last but was pretty good ",,1711208578691
+399,76,7119,blue,false,true,false,"[]","[ss, ss]",0,false,0,0,0,1,0,2,3,1,"crescendohawk24 (4641)","Intake isn’t very reliable, since it seems the hoops needs to be pressed between the intake and a wall to be collected.",,1711208580934
+400,77,3676,red,true,true,false,"[ss, ss, ss]","[as, as, ss, ss, sa, sa, as, as, as]",1,false,0,0,0,3,2,3,2,3,"crescendohawk24 (4641)","They seemed to be able to\nQuickly adapt to what was happened and scored which was easier for the time",,1711208975949
+401,77,6171,red,false,false,false,"[]","[]",1,false,0,2200,42950,2,2,1,3,0,"cresendohawk24 (4641)","Defense bot, who pushes notes to teammates ",,1711208971240
+402,77,7321,red,true,false,false,"[ss]","[]",0,false,0,0,0,0,2,0,0,0,"crescendohawk24 (4641)","",,1711208917164
+403,77,8827,blue,true,false,false,"[]","[ss]",1,false,0,16000,32250,2,2,2,2,0,"crescendohawk24 (4641)","",,1711208943215
+404,77,9156,blue,true,true,false,"[ss, sm]","[as, as, as, as, sm, ss, ss]",1,false,0,0,0,3,0,3,3,2,"crescendohawk24 (4641)","Shooting system made the driver struggle a little, but good robot overall.",,1711209006521
+405,78,5894,red,true,false,false,"[ss]","[ss, ss, ss, ss, sm, sm, ss, ss]",1,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","",,1711209382359
+406,78,8732,red,true,false,false,"[]","[]",0,false,0,0,47850,2,1,1,0,1,"crescendohawk24 (4641)","",,1711209364369
+407,78,9140,red,true,true,false,"[ss, ss]","[as, as, as, sa, sa, ss, ss, ss, ss, ss, sm]",0,false,0,0,0,4,1,3,4,4,"crescendohawk24 (4641)","Despite it’s simple looking design it was a excellent shooter and could easily grab notes",,1711209405240
+408,78,6357,blue,false,false,false,"[]","[]",0,false,0,98950,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711209357588
+409,78,6526,blue,true,true,false,"[ss]","[ss, ss, ss]",1,false,0,0,0,3,0,2,3,3,"crescendohawk24 (4641)","Good boy, but driver decided to park super early??",,1711209331149
+410,79,8769,red,true,false,false,"[]","[sm, sm]",2,false,16100,0,9350,2,1,1,0,2,"crescendohawk24 (4641)","",,1711209776627
+411,79,9034,red,false,false,false,"[]","[]",2,false,0,0,0,2,1,2,2,4,"crescendohawk24 (4641)","The robot mostly served as support shooting notes from one side to the other side of the field. They didn’t actually go out and try to shoot",,1711209824719
+412,79,9418,red,true,true,false,"[ss, ss, sm]","[ss, sm, ss, ss, ss, ss, ss, sm, ss, ss, ss]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","Fast shooter and intake",,1711209798364
+413,79,7091,blue,true,false,false,"[]","[]",1,false,0,6200,83350,2,2,1,4,0,"crescendohawk24 (4641)","",,1711209773122
+414,79,7506,blue,true,true,false,"[ss]","[ss, sm, ss, ss]",1,false,0,0,0,2,0,2,3,1,"crescendohawk24 (4641)","Intake system could use improvement, I watched a hoop they had fall out after being collected. This also made it harder for driver to shoot.",,1711209830411
+415,80,2714,red,true,true,false,"[ss, ss, ss]","[ss, ss, ss, ss, ss, ss, ss, ss]",2,false,0,0,0,0,0,0,0,0,"cresendohawk24 (4641)","It’s able to shoot the speaker from very far",,1711210182666
+416,80,4364,red,true,true,false,"[]","[as]",1,false,0,0,0,2,3,0,2,2,"crescendohawk24 (4641)","",,1711210166781
+417,80,8874,red,false,false,false,"[ss]","[ss, ss, ss, ss]",0,false,0,3250,0,2,1,2,3,2,"crescendohawk24 (4641)","They seemed to get stuck for a bit but were able to fix it up quickly",,1711210198243
+418,80,7121,blue,true,true,false,"[ss, sm, sm, sm]","[as, as, as, sa]",0,true,0,0,0,3,0,3,4,4,"crescendohawk24 (4641)","",,1711210168056
+419,80,8858,blue,false,true,false,"[]","[ss, ss, ss, sa]",0,false,0,0,0,3,0,2,3,3,"crescendohawk24 (4641)","",,1711210176254
+420,81,4639,red,true,false,false,"[ss]","[ss, ss, ss, ss, sa]",0,false,0,0,0,3,2,3,4,3,"crescendohawk24 (4641)","I’m the beginning they acted as support but then became a main player in shooting",,1711210586053
+421,81,4717,red,false,false,false,"[]","[]",1,false,0,0,60500,1,1,2,2,0,"crescendohawk24 (4641)","",,1711210568135
+422,81,5417,red,false,true,false,"[ss]","[as, as, am, as]",0,true,0,0,0,4,2,3,2,4,"cresendohawk24 (4641)","",,1711210575673
+423,81,4332,blue,false,true,false,"[]","[sm, ss, ss]",2,false,0,0,11750,1,0,2,3,2,"crescendohawk24 (4641)","No auto code",,1711210557476
+424,81,7119,blue,false,true,false,"[sm]","[sm, sm, ss, ss, ss, ss]",1,false,0,0,0,2,0,2,2,3,"crescendohawk24 (4641)","Driver just needs to practice aiming a little more.",,1711210641116
+425,82,2583,red,false,false,false,"[]","[as]",0,false,0,75350,0,2,2,1,0,1,"crescendohawk24 (4641)","",,1711211017166
+426,82,5431,red,false,true,false,"[ss, sm, ss]","[ss, ss, ss, ss, ss, ss, ss, ss]",1,true,0,0,0,3,1,2,3,4,"cresendohawk24 (4641)","",,1711211017544
+427,82,5788,red,false,false,false,"[ss]","[ss, ss, ss]",0,false,0,0,0,2,2,3,3,2,"crescendohawk24 (4641)","If they miss getting the note the first time they won’t be able to pick it up until 10 sec or more later",,1711211030863
+428,82,148,blue,true,true,false,"[sm, sm, ss, ss, ss, ss]","[ss, ss, ss, ss]",0,false,0,0,0,4,0,4,3,4,"crescendohawk24 (4641)","Super team. Probably best auto. Shooter system makes it easy to score but also allows them to support, by shooting rings on their teams side for pickup.",,1711211047972
+429,82,4610,blue,true,false,false,"[]","[as]",0,false,0,77000,0,2,0,2,2,3,"crescendohawk24 (4641)","",,1711210981017
+430,83,1296,red,true,true,false,"[ss]","[as, as, sa, ss, as, as, sm, sa]",0,false,0,0,0,3,2,3,2,3,"crescendohawk24  (4641)","",,1711211784201
+431,83,5894,red,false,false,false,"[ss]","[as, sm, as, ss, ss]",0,false,0,0,1000,3,2,1,3,2,"crescendohawk24 (4641)","It could shoot but it was quite slow to actually grab the notes despite it’s intake being quite consistent",,1711211814565
+432,83,6526,red,true,true,false,"[ss]","[sm, sm, ss]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711211793354
+433,83,6526,red,true,true,false,"[ss]","[sm, sm, ss]",0,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711211793508
+434,83,8019,blue,true,true,false,"[ss, ss, ss]","[sa, ss, sm, ss, ss, ss, ss, sa]",1,false,0,0,0,4,0,3,3,3,"crescendohawk24 (4641)","Super team.",,1711211793422
+435,83,9156,blue,false,false,false,"[ss]","[]",0,false,0,0,93750,2,4,2,4,0,"crescendohawk24 (4641)","",,1711211793701
+436,84,7091,red,true,false,false,"[]","[]",0,false,0,17300,49700,0,0,0,0,0,"crescendohawk24 (4641)","",,1711212310113
+437,84,8827,red,false,false,false,"[]","[sm, ss, ss, ss, ss]",1,false,0,0,1800,2,2,3,1,3,"crescendohawk24 (4641)","The robot’s main weakness seems to be the shakiness of it when it tries to go fact because of the shooter on top",,1711212344214
+438,84,9506,red,true,true,false,"[ss]","[sm, ss, sm, sm]",1,false,0,0,0,2,0,1,2,1,"crescendohawk24  (4641)","Extremely slow with shooting and moving\n\nRuns over notes but doesn't pick them up\n\nWheel guards might improve that situation but from what was seen driving isn't very good",,1711212362623
+439,84,6901,blue,true,true,false,"[ss]","[sm, sm, as, sm, sa, ss]",2,false,0,0,0,2,0,3,3,2,"crescendohawk24 (4641)","Robot struggled to score speakers either because of the driver or shooting system.",,1711212328710
+440,84,7506,blue,true,true,false,"[ss]","[as, ss, as, as, ss]",2,true,0,0,0,3,1,2,2,3,"cresendohawk24 (4641)","",,1711212316655
+441,85,4641,red,true,true,false,"[ss, ss, ss, ss]","[as, am, sm, sm]",1,false,0,5350,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711212796641
+442,85,8732,red,false,false,false,"[]","[]",2,false,0,0,0,2,1,2,2,2,"crescendohawk24 (4641)","I couldn’t tell what was happening on the field since there is a whole group blocking the view making it hard to see where the bot went",,1711212830698
+443,85,9034,red,false,false,false,"[ss]","[ss, sm, sm, ss, sm, sm, ss]",1,false,0,0,0,2,0,2,2,3,"crescendohawk24  (4641)","",,1711212792816
+444,85,6171,blue,true,true,false,"[ss]","[as]",1,false,0,0,26950,0,0,0,0,0,"cresendohawk24 (4641)","Broke during the match",,1711212753386
+445,85,9418,blue,true,true,false,"[sm, ss, sm]","[am, as, ss, ss, ss, ss]",2,false,0,0,0,3,0,4,3,4,"crescendohawk24 (4641)","Super team.",,1711212793143
+446,86,8598,red,false,false,false,"[ss]","[ss, sm, ss, sm, sm, ss, ss, sa, ss, ss]",2,false,0,0,0,3,2,2,3,3,"crescendohawk24 (4641)","It was really good to grab notes but they rushed to score a lot of the times instead of taking a second to shoot",,1711213239251
+447,86,8749,red,true,true,false,"[ss, ss]","[as, as, as]",1,false,0,0,0,0,0,0,0,0,"crescendohawk24 (4641)","",,1711213215683
